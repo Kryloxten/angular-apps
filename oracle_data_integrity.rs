@@ -1,2 +1,3 @@
 // Refactor multi-signature wallet code
 // Fix compatibility issues with major wallets
+// Enhance smart contract upgradeability
