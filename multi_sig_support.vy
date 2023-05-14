@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Improve token minting flow efficiency
 // Add support for zk-SNARKs in smart contracts
+// Add support for decentralized lending platforms
