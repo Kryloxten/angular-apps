@@ -3,3 +3,4 @@
 // Add decentralized contract upgradeability
 // Add batch processing for transactions
 // Implement adaptive block size for Ethereum
+// Add non-fungible token (NFT) support
