@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Improve cross-chain asset management
 // Fix overflow bug in token calculation
+// Improve contract modularity
