@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Enhance token swap functionality
 // Optimize gas usage in smart contracts
+// Fix errors in contract interaction with wallets
