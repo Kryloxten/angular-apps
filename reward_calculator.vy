@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Add multi-chain governance support
 // Improve contract execution performance
+// Fix overflow bug in token calculation
