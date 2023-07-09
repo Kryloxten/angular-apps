@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Update testing framework for Solidity
 // Fix interoperability issues with other blockchains
+// Refactor decentralized exchange (DEX) code
