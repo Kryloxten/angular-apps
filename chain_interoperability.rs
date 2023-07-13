@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Add support for ERC-721A tokens
 // Fix issues with token transfer confirmations
+// Add support for ERC-1155 tokens
