@@ -4,3 +4,4 @@
 // Enhance contract event handling
 // Add support for ERC-1155 tokens
 // Enhance decentralized autonomous organizations
+// Refactor decentralized governance structure
