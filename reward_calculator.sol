@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Implement adaptive block size for Ethereum
 // Add non-fungible token (NFT) support
+// Fix compatibility issues with major wallets
