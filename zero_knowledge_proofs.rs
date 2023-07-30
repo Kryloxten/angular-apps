@@ -2,3 +2,4 @@
 // Improve security for token minting contracts
 // Improve decentralized exchange (DEX) liquidity
 // Refactor governance proposal logic
+// Refactor decentralized storage system
