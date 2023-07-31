@@ -2,3 +2,4 @@
 // Fix memory optimization issues in contracts
 // Add support for multiple consensus mechanisms
 // Integrate flash loan functionality
+// Add support for ERC-1155 tokens
