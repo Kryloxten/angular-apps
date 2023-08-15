@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Enhance cryptographic primitives in contracts
 // Improve decentralized identity (DID) systems
+// Fix compatibility with MetaMask
