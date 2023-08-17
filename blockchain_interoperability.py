@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Enhance contract modularity for future upgrades
 // Optimize oracle data fetching mechanism
+// Add multi-chain governance support
