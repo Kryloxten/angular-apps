@@ -2,3 +2,4 @@
 // Improve gas fee estimation accuracy
 // Optimize gas cost in function execution
 // Refactor contract state machine design
+// Implement decentralized arbitration in contracts
