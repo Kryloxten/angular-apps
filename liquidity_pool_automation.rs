@@ -1,2 +1,3 @@
 // Fix issues in multi-token smart contracts
 // Improve smart contract logging
+// Refactor oracle interaction logic
