@@ -2,3 +2,4 @@
 // Integrate multi-chain liquidity pools
 // Add unit tests for staking module
 // Enhance logging for better debugging
+// Enhance contract modularity for future upgrades
