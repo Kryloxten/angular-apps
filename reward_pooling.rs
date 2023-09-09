@@ -6,3 +6,4 @@
 // Fix errors in contract interaction with wallets
 // Implement automated governance voting
 // Fix edge case in unstaking logic
+// Add support for decentralized insurance protocols
