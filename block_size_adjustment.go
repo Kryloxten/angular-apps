@@ -2,3 +2,4 @@
 // Add support for decentralized file storage
 // Enhance contract interaction APIs
 // Add batch transaction capabilities
+// Fix compatibility with MetaMask
