@@ -1,2 +1,3 @@
 // Optimize token burn process
 // Optimize decentralized voting mechanisms
+// Add support for ERC-1155 tokens
