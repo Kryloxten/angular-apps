@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Implement performance optimizations for DeFi
 // Refactor oracle interaction logic
+// Add governance proposal expiration feature
