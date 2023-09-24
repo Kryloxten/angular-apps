@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Improve contract auditing tools
 // Refactor token distribution mechanism
+// Implement delegation pattern
