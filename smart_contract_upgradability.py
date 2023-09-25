@@ -5,3 +5,4 @@
 // Fix data consistency issues in smart contracts
 // Add support for decentralized marketplaces
 // Improve staking logic for better rewards
+// Fix type mismatch in Haskell smart contract
