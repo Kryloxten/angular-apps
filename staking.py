@@ -2,3 +2,4 @@
 // Implement adaptive block size for Ethereum
 // Update README with Go module examples
 // Implement emergency stop mechanism
+// Add multi-sig wallet functionality
