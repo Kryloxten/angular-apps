@@ -3,3 +3,4 @@
 // Integrate with multi-token standards
 // Fix ERC-20 token interface bugs
 // Integrate IPFS for storage
+// Integrate with external blockchain networks
