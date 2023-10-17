@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Enhance decentralized autonomous organizations
 // Refactor decentralized governance structure
+// Integrate Chainlink VRF for randomness
