@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Add support for batch transaction processing
 // Add multi-sig wallet functionality
+// Fix issue with multi-chain transactions
