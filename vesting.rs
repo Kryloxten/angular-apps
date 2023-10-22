@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Enhance decentralized autonomous governance
 // Improve decentralized exchange (DEX) liquidity
+// Fix issues with cross-chain transaction finality
