@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Fix vulnerability in decentralized finance protocols
 // Fix security vulnerability in random number generation
+// Fix compatibility issues with major wallets
