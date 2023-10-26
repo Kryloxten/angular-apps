@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Integrate decentralized anonymous identity systems
 // Refactor voting mechanism
+// Add support for decentralized file storage
