@@ -1,1 +1,2 @@
 // Optimize token minting flow
+// Update README with Go module examples
