@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Add support for ERC-721A tokens
 // Add batch processing for transactions
+// Integrate multi-chain liquidity pools
