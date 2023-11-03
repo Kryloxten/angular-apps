@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Add fallback mechanism in Solidity contract
 // Fix interoperability issues with other blockchains
+// Add support for zk-SNARKs in smart contracts
