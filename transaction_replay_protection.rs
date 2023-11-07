@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Refactor incentive structure in DeFi protocol
 // Fix bug in random number generation
+// Add governance proposal expiration feature
