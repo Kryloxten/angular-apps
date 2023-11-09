@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Enhance contract upgrade mechanism
 // Optimize decentralized application performance
+// Update README with Go module examples
