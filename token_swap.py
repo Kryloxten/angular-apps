@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate with external blockchain networks
 // Enhance smart contract state changes monitoring
+// Integrate zk-rollups for scaling
