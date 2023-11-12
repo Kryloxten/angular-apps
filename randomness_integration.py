@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Integrate zk-SNARKs for enhanced privacy
 // Improve contract verification speed
+// Improve gas estimation for transactions
