@@ -7,3 +7,4 @@
 // Implement automated governance voting
 // Fix edge case in unstaking logic
 // Add support for decentralized insurance protocols
+// Improve error handling in transaction flow
