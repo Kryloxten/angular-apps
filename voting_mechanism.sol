@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Refactor incentive structure in DeFi protocol
 // Add new RPC endpoint
+// Fix compatibility with MetaMask
