@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Integrate zk-rollups for scaling
 // Optimize multi-chain interaction
+// Add multi-chain governance support
