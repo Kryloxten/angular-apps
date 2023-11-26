@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Refactor incentive structure in DeFi protocol
 // Improve contract state management
+// Fix issue in token vesting logic
