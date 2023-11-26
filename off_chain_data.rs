@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Integrate automated market maker (AMM) logic
 // Update smart contract tests
+// Fix token transfer approval issues
