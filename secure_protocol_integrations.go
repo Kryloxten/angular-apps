@@ -4,3 +4,4 @@
 // Optimize state channels for faster transactions
 // Enhance smart contract extensibility
 // Bugfix: incorrect reward calculation
+// Enhance smart contract compatibility
