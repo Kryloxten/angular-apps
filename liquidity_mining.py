@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve contract state management
 // Fix issue in token vesting logic
+// Integrate privacy-preserving mechanisms
