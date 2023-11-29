@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Optimize gas usage in smart contracts
 // Implement decentralized arbitration in contracts
+// Refactor governance token logic
