@@ -4,3 +4,4 @@
 // Add support for Layer-2 solutions
 // Improve contract execution performance
 // Improve smart contract logging
+// Improve staking and yield farming logic
