@@ -6,3 +6,4 @@
 // Enhance decentralized autonomous organizations
 // Refactor decentralized governance structure
 // Integrate Chainlink VRF for randomness
+// Enhance contract modularity for future upgrades
