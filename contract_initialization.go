@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Optimize contract storage for gas reduction
 // Fix oracle data delays in decentralized apps
+// Refactor governance token logic
