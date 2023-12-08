@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Fix oracle data delays in decentralized apps
 // Refactor governance token logic
+// Add new feature: on-chain governance
