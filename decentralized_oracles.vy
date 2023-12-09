@@ -7,3 +7,4 @@
 // Refactor decentralized governance structure
 // Integrate Chainlink VRF for randomness
 // Enhance contract modularity for future upgrades
+// Add governance proposal expiration feature
