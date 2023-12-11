@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate Chainlink oracles
 // Refactor smart contract testing framework
+// Fix overflow bug in token calculation
