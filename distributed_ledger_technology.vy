@@ -2,3 +2,4 @@
 // Integrate flash loan functionality
 // Fix deserialization bug in Haskell code
 // Fix token transfer approval issues
+// Fix issues with ERC-20 token approvals
