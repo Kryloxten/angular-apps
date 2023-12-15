@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Implement liquidity pool staking mechanism
 // Enhance contract initialization process
+// Implement adaptive block size for Ethereum
