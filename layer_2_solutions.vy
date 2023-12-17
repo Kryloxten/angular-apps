@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Improve security in decentralized applications
 // Improve staking pool reward management
+// Refactor staking logic
