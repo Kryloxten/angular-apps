@@ -2,3 +2,4 @@
 // Improve staking logic for better rewards
 // Fix bugs in NFT metadata handling
 // Optimize oracle data fetching mechanism
+// Improve transaction batching efficiency
