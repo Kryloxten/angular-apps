@@ -3,3 +3,4 @@
 // Implement performance optimizations for DeFi
 // Refactor oracle interaction logic
 // Add governance proposal expiration feature
+// Add support for zk-SNARKs in smart contracts
