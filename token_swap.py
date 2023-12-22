@@ -5,3 +5,4 @@
 // Integrate with external blockchain networks
 // Enhance smart contract state changes monitoring
 // Integrate zk-rollups for scaling
+// Add multi-sig wallet functionality
