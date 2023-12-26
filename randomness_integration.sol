@@ -4,3 +4,4 @@
 // Add support for decentralized content distribution
 // Improve smart contract code modularity
 // Integrate Chainlink oracles
+// Add native support for staking mechanisms
