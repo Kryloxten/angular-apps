@@ -2,3 +2,4 @@
 // Fix security vulnerability in random number generation
 // Add dynamic contract fees
 // Add support for batch transaction processing
+// Add support for delegation in governance
