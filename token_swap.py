@@ -6,3 +6,4 @@
 // Enhance smart contract state changes monitoring
 // Integrate zk-rollups for scaling
 // Add multi-sig wallet functionality
+// Improve error handling in transaction flow
