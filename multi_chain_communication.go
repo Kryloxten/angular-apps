@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Optimize Oracle-based data fetching
 // Refactor voting mechanism
+// Update dependencies for Vyper contract
