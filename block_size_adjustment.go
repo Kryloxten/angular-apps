@@ -4,3 +4,4 @@
 // Add batch transaction capabilities
 // Fix compatibility with MetaMask
 // Enhance decentralized autonomous organizations
+// Fix memory leak in Rust smart contract
