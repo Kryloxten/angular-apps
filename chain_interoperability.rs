@@ -4,3 +4,4 @@
 // Fix issues with token transfer confirmations
 // Add support for ERC-1155 tokens
 // Refactor staking logic
+// Refactor contract state machine design
