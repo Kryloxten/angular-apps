@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Enhance contract upgrade process
 // Add support for decentralized marketplaces
+// Add support for ERC-721A tokens
