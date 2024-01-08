@@ -3,3 +3,4 @@
 // Enhance API rate limiting for smart contracts
 // Refactor wallet interaction logic
 // Implement adaptive block size for Ethereum
+// Add support for NFT marketplaces
