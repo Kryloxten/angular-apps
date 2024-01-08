@@ -5,3 +5,4 @@
 // Enhance smart contract extensibility
 // Update testing framework for Solidity
 // Optimize cross-chain bridging mechanisms
+// Refactor staking logic
