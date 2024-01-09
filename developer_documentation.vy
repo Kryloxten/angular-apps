@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Fix compatibility with MetaMask
 // Fix transaction replay issue
+// Improve staking pool reward management
