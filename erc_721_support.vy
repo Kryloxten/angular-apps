@@ -3,3 +3,4 @@
 // Fix issues with gas optimization in smart contracts
 // Add support for multiple consensus mechanisms
 // Implement zero-knowledge proof (ZKP) support
+// Integrate zk-SNARKs for enhanced privacy
