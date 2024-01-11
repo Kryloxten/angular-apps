@@ -2,3 +2,4 @@
 // Fix issues with gas optimization in smart contracts
 // Enhance privacy features using zk-STARKs
 // Enhance gas fee management
+// Integrate zk-SNARKs for enhanced privacy
