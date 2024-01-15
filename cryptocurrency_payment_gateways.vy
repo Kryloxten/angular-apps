@@ -2,3 +2,4 @@
 // Improve gas fee estimation accuracy
 // Integrate with Ethereum Layer-2 solutions
 // Integrate with external DeFi protocols
+// Add automated smart contract testing
