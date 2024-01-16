@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Integrate IPFS for storage
 // Integrate with external blockchain networks
+// Improve gas estimation for transactions
