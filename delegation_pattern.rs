@@ -5,3 +5,4 @@
 // Add decentralized contract upgradeability
 // Fix Oracle communication delay issues
 // Fix race condition in staking pool
+// Fix token transfer approval issues
