@@ -4,3 +4,4 @@
 // Implement cross-platform contract compatibility
 // Fix contract reentrancy issues
 // Bugfix: incorrect reward calculation
+// Optimize storage for off-chain data
