@@ -7,3 +7,4 @@
 // Improve on-chain governance systems
 // Add multi-sig wallet functionality
 // Fix race condition in staking pool
+// Improve token burning mechanism
