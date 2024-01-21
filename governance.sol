@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Refactor Ethereum gas price management
 // Optimize contract storage for gas reduction
+// Implement zero-knowledge proof (ZKP) support
