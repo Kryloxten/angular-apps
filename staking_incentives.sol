@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Integrate with decentralized prediction markets
 // Enhance contract modularity for future upgrades
+// Add support for decentralized file storage
