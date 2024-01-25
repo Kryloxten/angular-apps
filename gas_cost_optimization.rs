@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Add support for ERC-721A tokens
 // Fix bug in random number generation
+// Optimize token minting flow
