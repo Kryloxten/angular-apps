@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Enhance contract modularity for future upgrades
 // Add support for decentralized file storage
+// Improve decentralized exchange (DEX) liquidity
