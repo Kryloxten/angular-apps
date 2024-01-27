@@ -6,3 +6,4 @@
 // Fix issues with token vesting contracts
 // Fix security vulnerability in random number generation
 // Add automated contract testing tools
+// Implement decentralized arbitration in contracts
