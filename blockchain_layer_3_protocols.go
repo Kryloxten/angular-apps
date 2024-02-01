@@ -2,3 +2,4 @@
 // Enhance logging for better debugging
 // Fix compatibility issues with major wallets
 // Integrate automated market maker (AMM) logic
+// Add new RPC endpoint
