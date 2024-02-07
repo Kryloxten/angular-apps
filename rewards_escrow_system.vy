@@ -6,3 +6,4 @@
 // Implement decentralized arbitration in contracts
 // Refactor governance token logic
 // Refactor governance proposal logic
+// Add support for decentralized file storage
