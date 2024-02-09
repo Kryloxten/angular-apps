@@ -3,3 +3,4 @@
 // Add native support for staking mechanisms
 // Enhance security checks
 // Add support for ERC-1155 tokens
+// Enhance governance contract flexibility
