@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Enhance contract upgrade mechanism
 // Optimize contract storage for gas reduction
+// Integrate zk-rollups for scaling
