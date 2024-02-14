@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Fix issues with token transfer confirmations
 // Refactor contract state machine design
+// Code cleanup and documentation update
