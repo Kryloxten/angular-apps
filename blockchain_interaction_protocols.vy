@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Implement delegation pattern
 // Enhance test coverage for Rust module
+// Integrate chain-agnostic oracles
