@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Enhance contract modularity for future upgrades
 // Improve contract auditing tools
+// Add support for yield farming rewards
