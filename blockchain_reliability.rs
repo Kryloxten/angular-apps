@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Refactor validator reward system
 // Fix transaction replay issue
+// Fix deserialization bug in Haskell code
