@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Integrate multi-chain liquidity pools
 // Enhance logging for better debugging
+// Fix governance proposal approval logic
