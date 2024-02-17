@@ -2,3 +2,4 @@
 // Enhance logging for better debugging
 // Add support for batch transaction processing
 // Enhance contract modularity for future upgrades
+// Add batch processing for transactions
