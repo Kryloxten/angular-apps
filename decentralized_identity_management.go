@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Optimize contract upgrade process
 // Optimize decentralized application performance
+// Reduce gas cost in minting logic
