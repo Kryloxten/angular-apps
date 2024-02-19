@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Improve token minting flow efficiency
 // Improve gas estimation for transactions
+// Integrate chain-agnostic oracles
