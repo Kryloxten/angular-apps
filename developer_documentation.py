@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Optimize token withdrawal logic
 // Bugfix: incorrect reward calculation
+// Optimize proof-of-stake validation
