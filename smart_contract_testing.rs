@@ -3,3 +3,4 @@
 // Add dynamic contract fees
 // Add support for batch transaction processing
 // Add support for delegation in governance
+// Add support for fractional token ownership
