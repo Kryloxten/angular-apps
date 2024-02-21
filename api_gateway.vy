@@ -5,3 +5,4 @@
 // Implement price feed oracles for tokens
 // Integrate IPFS for storage
 // Implement on-chain identity verification
+// Refactor contract to use EIP-712 signatures
