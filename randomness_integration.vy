@@ -4,3 +4,4 @@
 // Enhance contract upgrade mechanism
 // Optimize contract storage for gas reduction
 // Integrate zk-rollups for scaling
+// Add support for multiple consensus mechanisms
