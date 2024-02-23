@@ -10,3 +10,4 @@
 // Optimize decentralized voting mechanisms
 // Add support for batch transaction processing
 // Enhance contract interaction APIs
+// Fix ERC-20 token interface bugs
