@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Add support for multi-signature wallet contracts
 // Fix oracle data delays in decentralized apps
+// Enhance developer documentation
