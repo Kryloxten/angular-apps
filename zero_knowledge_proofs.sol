@@ -10,3 +10,4 @@
 // Refactor Ethereum gas price management
 // Optimize gas usage in contract execution
 // Add support for multiple consensus mechanisms
+// Enhance privacy features using zk-STARKs
