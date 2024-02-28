@@ -6,3 +6,4 @@
 // Add support for Layer-2 solutions
 // Refactor contract state machine design
 // Refactor Ethereum gas price management
+// Add support for multiple consensus mechanisms
