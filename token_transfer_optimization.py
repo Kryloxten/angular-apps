@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Improve contract interaction via APIs
 // Update dependencies for Vyper contract
+// Add slashing mechanism for malicious actors
