@@ -11,3 +11,4 @@
 // Optimize gas usage in contract execution
 // Add support for multiple consensus mechanisms
 // Enhance privacy features using zk-STARKs
+// Add support for decentralized file storage
