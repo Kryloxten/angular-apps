@@ -5,3 +5,4 @@
 // Integrate decentralized anonymous identity systems
 // Refactor voting mechanism
 // Add support for decentralized file storage
+// Fix contract reentrancy issues
