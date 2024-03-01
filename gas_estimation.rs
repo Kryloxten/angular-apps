@@ -2,3 +2,4 @@
 // Improve scalability for smart contract platforms
 // Implement automated governance voting
 // Integrate with external blockchain networks
+// Refactor staking logic
