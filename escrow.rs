@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor incentive structure in DeFi protocol
 // Add support for multiple consensus mechanisms
+// Code cleanup and documentation update
