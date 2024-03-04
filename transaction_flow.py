@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Refactor wallet interaction logic
 // Integrate zk-rollups for scaling
+// Refactor governance token logic
