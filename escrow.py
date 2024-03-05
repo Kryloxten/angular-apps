@@ -8,3 +8,4 @@
 // Fix scalability issues with smart contracts
 // Fix issue in token vesting logic
 // Enhance developer documentation
+// Bugfix: incorrect reward calculation
