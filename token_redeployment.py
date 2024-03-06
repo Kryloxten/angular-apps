@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Fix bugs in multi-token systems
 // Bugfix: incorrect reward calculation
+// Improve ERC-721 token metadata functionality
