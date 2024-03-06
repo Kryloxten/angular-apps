@@ -6,3 +6,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Fix ERC-20 token interface bugs
 // Refactor wallet interaction logic
+// Enhance contract event handling
