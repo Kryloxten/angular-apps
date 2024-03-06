@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Add support for multi-signature wallet contracts
 // Fix compatibility with MetaMask
+// Implement reward distribution feature
