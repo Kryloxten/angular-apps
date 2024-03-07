@@ -7,3 +7,4 @@
 // Integrate staking rewards automation
 // Enhance contract modularity for future upgrades
 // Fix security vulnerability in random number generation
+// Integrate with decentralized identity providers
