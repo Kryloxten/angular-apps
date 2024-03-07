@@ -3,3 +3,4 @@
 // Enhance contract modularity
 // Fix issues with ERC-20 token approvals
 // Refactor governance token logic
+// Refactor decentralized governance structure
