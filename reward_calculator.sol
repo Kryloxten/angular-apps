@@ -12,3 +12,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix errors in contract interaction with wallets
 // Add support for decentralized marketplaces
+// Add non-fungible token (NFT) support
