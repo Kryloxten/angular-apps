@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Optimize storage for off-chain data
 // Implement on-chain identity verification
+// Improve staking pool reward management
