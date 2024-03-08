@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Enhance contract upgrade process
 // Add batch processing for transactions
+// Add security checks for contract deployment
