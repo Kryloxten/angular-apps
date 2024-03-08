@@ -8,3 +8,4 @@
 // Enhance gas fee management
 // Enhance contract initialization process
 // Fix race condition in staking pool
+// Refactor decentralized storage system
