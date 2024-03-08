@@ -6,3 +6,4 @@
 // Improve DApp transaction flow
 // Update smart contract tests
 // Enhance smart contract upgradeability
+// Improve cross-chain asset management
