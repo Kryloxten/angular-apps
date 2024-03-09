@@ -5,3 +5,4 @@
 // Improve contract verification speed
 // Optimize cross-chain bridging mechanisms
 // Improve gas estimation for transactions
+// Add unit tests for staking module
