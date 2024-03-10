@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Improve DApp transaction flow
 // Add support for decentralized marketplaces
+// Improve security in decentralized applications
