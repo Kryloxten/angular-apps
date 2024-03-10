@@ -6,3 +6,4 @@
 // Fix race condition in staking pool
 // Optimize cross-chain bridging mechanisms
 // Refactor wallet interaction logic
+// Add new RPC endpoint
