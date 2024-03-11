@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Add support for zk-SNARKs in smart contracts
 // Upgrade to latest Solidity version
+// Integrate Chainlink oracles
