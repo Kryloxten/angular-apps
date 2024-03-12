@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Add fallback mechanism in Solidity contract
 // Improve error handling in transaction flow
+// Implement a new contract event system
