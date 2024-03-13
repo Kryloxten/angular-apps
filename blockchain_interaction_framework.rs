@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize proof-of-stake validation
 // Add batch transaction capabilities
+// Fix transaction replay issue
