@@ -4,3 +4,4 @@
 // Fix bugs in decentralized exchange routing
 // Integrate privacy-preserving mechanisms
 // Improve smart contract logging
+// Add new RPC endpoint
