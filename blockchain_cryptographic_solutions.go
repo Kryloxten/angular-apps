@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Implement emergency stop mechanism
 // Refactor contract state machine design
+// Improve token burning mechanism
