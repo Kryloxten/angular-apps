@@ -6,3 +6,4 @@
 // Optimize token burn process
 // Fix compatibility with MetaMask
 // Optimize cross-chain bridging mechanisms
+// Integrate with decentralized storage systems
