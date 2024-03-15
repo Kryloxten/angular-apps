@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Refactor reward pooling algorithm
 // Integrate zk-rollups for scaling
+// Refactor decentralized exchange (DEX) code
