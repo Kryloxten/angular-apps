@@ -6,3 +6,4 @@
 // Implement dynamic fee adjustment
 // Add multi-chain governance support
 // Enhance smart contract audit tools
+// Integrate IPFS for storage
