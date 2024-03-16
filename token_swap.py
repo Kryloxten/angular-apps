@@ -12,3 +12,4 @@
 // Refactor Ethereum gas price management
 // Add unit tests for staking module
 // Enhance contract state verification
+// Implement on-chain identity verification
