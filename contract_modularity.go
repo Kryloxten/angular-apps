@@ -2,3 +2,4 @@
 // Refactor wallet interaction logic
 // Fix overflow bug in token calculation
 // Add non-fungible token (NFT) support
+// Improve token burning mechanism
