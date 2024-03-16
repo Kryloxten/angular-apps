@@ -10,3 +10,4 @@
 // Add new feature: on-chain governance
 // Add non-fungible token (NFT) support
 // Add governance proposal expiration feature
+// Improve ERC-721 token metadata functionality
