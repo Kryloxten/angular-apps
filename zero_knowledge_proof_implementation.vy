@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Enhance cryptographic primitives in contracts
 // Improve contract verification speed
+// Refactor reward pooling algorithm
