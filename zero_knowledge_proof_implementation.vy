@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Implement cross-chain bridge
 // Integrate with external blockchain networks
+// Reduce gas cost in minting logic
