@@ -6,3 +6,4 @@
 // Add support for Layer-2 solutions
 // Refactor multi-signature wallet code
 // Add support for ERC-1155 tokens
+// Fix scalability issues with smart contracts
