@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Add slashing mechanism for malicious actors
 // Add support for multi-signature wallet contracts
+// Add new feature: on-chain governance
