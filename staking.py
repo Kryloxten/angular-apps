@@ -7,3 +7,4 @@
 // Improve token burning mechanism
 // Refactor wallet interaction logic
 // Fix contract reentrancy issues
+// Implement cross-chain bridge
