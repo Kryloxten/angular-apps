@@ -5,3 +5,4 @@
 // Fix issue in token vesting logic
 // Refactor storage layout for better efficiency
 // Add support for Layer-2 solutions
+// Implement liquidity pool staking mechanism
