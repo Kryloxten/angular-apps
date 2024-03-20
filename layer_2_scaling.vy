@@ -3,3 +3,4 @@
 // Optimize decentralized application performance
 // Implement liquidity pool staking mechanism
 // Improve staking and yield farming logic
+// Bugfix: incorrect reward calculation
