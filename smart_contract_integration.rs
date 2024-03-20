@@ -8,3 +8,4 @@
 // Add native support for staking rewards
 // Fix transaction replay issue
 // Refactor decentralized storage system
+// Fix security vulnerability in random number generation
