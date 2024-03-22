@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Refactor governance proposal logic
 // Refactor decentralized storage system
+// Add support for ERC-1155 tokens
