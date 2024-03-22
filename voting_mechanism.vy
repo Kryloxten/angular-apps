@@ -7,3 +7,4 @@
 // Optimize decentralized voting mechanisms
 // Implement cross-chain bridge
 // Enhance smart contract extensibility
+// Add new feature: on-chain governance
