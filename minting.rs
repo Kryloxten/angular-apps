@@ -2,3 +2,4 @@
 // Add dynamic contract upgrade mechanisms
 // Improve smart contract logging
 // Improve error handling in transaction flow
+// Add new RPC endpoint
