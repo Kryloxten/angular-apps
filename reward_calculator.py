@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Add support for zk-SNARKs in smart contracts
 // Optimize contract upgrade process
+// Improve security for token minting contracts
