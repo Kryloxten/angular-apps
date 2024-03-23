@@ -3,3 +3,4 @@
 // Add gas optimization features for smart contracts
 // Enhance logging for better debugging
 // Integrate Chainlink VRF for randomness
+// Enhance privacy features using zk-STARKs
