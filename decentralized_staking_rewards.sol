@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Optimize gas cost in function execution
 // Fix deserialization bug in Haskell code
+// Fix bugs in NFT metadata handling
