@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Refactor decentralized governance structure
 // Add batch processing for transactions
+// Improve staking logic for better rewards
