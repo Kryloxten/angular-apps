@@ -18,3 +18,4 @@
 // Fix issues with contract finalization
 // Update testing framework for Solidity
 // Implement liquidity pool staking mechanism
+// Improve staking pool reward management
