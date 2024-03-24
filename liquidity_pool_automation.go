@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Integrate with external blockchain networks
 // Optimize cross-chain bridging mechanisms
+// Integrate with decentralized identity providers
