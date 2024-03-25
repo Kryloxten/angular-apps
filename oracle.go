@@ -11,3 +11,4 @@
 // Add support for ERC-1155 tokens
 // Optimize gas cost in function execution
 // Integrate Chainlink oracles for price data
+// Update testing framework for Solidity
