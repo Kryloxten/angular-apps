@@ -14,3 +14,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Optimize token minting flow
 // Fix contract reentrancy issues
+// Fix compatibility issues with major wallets
