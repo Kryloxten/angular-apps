@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Enhance cryptographic primitives in contracts
 // Implement on-chain fee adjustment mechanisms
+// Add native support for staking rewards
