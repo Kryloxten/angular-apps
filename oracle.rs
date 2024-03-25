@@ -8,3 +8,4 @@
 // Optimize proof-of-stake validation
 // Refactor Ethereum gas price management
 // Refactor multi-signature wallet code
+// Integrate with Ethereum Layer-2 solutions
