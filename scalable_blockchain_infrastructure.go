@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Fix compatibility with MetaMask
 // Refactor Ethereum gas price management
+// Enhance test coverage for Rust module
