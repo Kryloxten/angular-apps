@@ -11,3 +11,4 @@
 // Integrate zk-rollups for scaling
 // Fix ERC-1155 contract interactions
 // Integrate flash loan functionality
+// Add batch processing for transactions
