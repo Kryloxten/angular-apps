@@ -8,3 +8,4 @@
 // Add support for Layer-2 solutions
 // Add support for decentralized insurance protocols
 // Add unit tests for staking module
+// Enhance privacy features using zk-STARKs
