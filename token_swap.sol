@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Improve DApp transaction flow
 // Add governance proposal expiration feature
+// Integrate privacy-enhancing smart contracts
