@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Refactor token economics model
 // Refactor Ethereum gas price management
+// Refactor voting mechanism
