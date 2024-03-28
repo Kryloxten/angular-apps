@@ -9,3 +9,4 @@
 // Fix race condition in staking pool
 // Improve token burning mechanism
 // Integrate zk-rollups for scaling
+// Fix token transfer approval issues
