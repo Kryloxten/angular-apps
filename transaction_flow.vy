@@ -12,3 +12,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix interoperability issues with other blockchains
 // Integrate decentralized prediction models
+// Add automated smart contract testing
