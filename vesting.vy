@@ -4,3 +4,4 @@
 // Refactor contract state machine design
 // Implement decentralized arbitration in contracts
 // Add support for multi-signature wallet contracts
+// Add support for delegation in governance
