@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Improve contract state management
 // Refactor wallet interaction logic
+// Add new feature: on-chain governance
