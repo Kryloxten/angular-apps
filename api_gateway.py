@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Add batch processing for transactions
 // Implement contract function batching
+// Fix issues with ERC-20 token approvals
