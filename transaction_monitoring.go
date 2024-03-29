@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Integrate staking rewards automation
 // Add support for decentralized insurance protocols
+// Improve contract interaction via APIs
