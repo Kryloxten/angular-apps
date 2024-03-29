@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Add batch transaction capabilities
 // Fix transaction replay issue
+// Refactor staking logic
