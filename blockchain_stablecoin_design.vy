@@ -3,3 +3,4 @@
 // Enhance contract upgrade process
 // Integrate IPFS for storage
 // Refactor incentive structure in DeFi protocol
+// Refactor decentralized governance structure
