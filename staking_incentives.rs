@@ -13,3 +13,4 @@
 // Optimize gas usage in smart contracts
 // Improve DApp transaction flow
 // Fix issues in multi-token smart contracts
+// Add batch transaction capabilities
