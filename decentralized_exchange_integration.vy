@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Add fallback mechanism in Solidity contract
 // Integrate IPFS for storage
+// Integrate IPFS for storage
