@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Improve token burning mechanism
 // Fix overflow bug in token calculation
+// Fix security vulnerability in random number generation
