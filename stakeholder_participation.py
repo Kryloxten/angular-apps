@@ -2,3 +2,4 @@
 // Improve gas fee estimation accuracy
 // Optimize contract storage for gas reduction
 // Implement rewards escrow system
+// Improve token burning mechanism
