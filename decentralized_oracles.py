@@ -8,3 +8,4 @@
 // Fix edge case in unstaking logic
 // Refactor decentralized storage system
 // Fix issues in token transfer logic
+// Add support for Layer-2 solutions
