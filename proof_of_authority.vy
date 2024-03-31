@@ -13,3 +13,4 @@
 // Integrate IPFS for storage
 // Integrate staking rewards automation
 // Enhance contract upgrade mechanism
+// Enhance smart contract upgradeability
