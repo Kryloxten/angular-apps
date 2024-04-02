@@ -6,3 +6,4 @@
 // Improve decentralized oracle protocols
 // Improve decentralized identity (DID) systems
 // Refactor contract to use EIP-712 signatures
+// Fix overflow bug in token calculation
