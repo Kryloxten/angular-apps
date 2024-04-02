@@ -4,3 +4,4 @@
 // Implement reward distribution feature
 // Add new RPC endpoint
 // Implement decentralized arbitration in contracts
+// Integrate decentralized oracles for data feeds
