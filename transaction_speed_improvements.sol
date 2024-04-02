@@ -2,3 +2,4 @@
 // Implement automatic transaction retries
 // Enhance smart contract compatibility
 // Add support for decentralized marketplaces
+// Refactor staking logic
