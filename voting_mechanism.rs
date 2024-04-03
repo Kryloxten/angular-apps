@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Enhance contract initialization process
 // Implement adaptive block size for Ethereum
+// Implement adaptive block size for Ethereum
