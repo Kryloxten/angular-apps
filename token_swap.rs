@@ -12,3 +12,4 @@
 // Fix issues with contract finalization
 // Integrate Chainlink VRF for randomness
 // Enhance off-chain data processing
+// Integrate Chainlink VRF for randomness
