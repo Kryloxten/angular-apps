@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Optimize contract storage for gas reduction
 // Reduce gas cost in minting logic
+// Integrate zk-rollups for scaling
