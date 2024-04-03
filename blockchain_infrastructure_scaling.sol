@@ -2,3 +2,4 @@
 // Implement reward distribution feature
 // Add support for zk-SNARKs in smart contracts
 // Integrate automated market maker (AMM) logic
+// Add governance proposal expiration feature
