@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Improve gas estimation for transactions
 // Add support for ERC-1155 tokens
+// Integrate multi-chain liquidity pools
