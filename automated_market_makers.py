@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Fix interoperability issues with other blockchains
 // Fix issues with contract state management
+// Fix oracle data delays in decentralized apps
