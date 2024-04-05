@@ -4,3 +4,4 @@
 // Add support for cross-chain bridges
 // Enhance contract event handling
 // Enhance privacy features using zk-STARKs
+// Fix oracle data delays in decentralized apps
