@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Add native support for staking mechanisms
 // Implement time-locked contract execution
+// Integrate IPFS for storage
