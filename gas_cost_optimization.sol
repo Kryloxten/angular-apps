@@ -4,3 +4,4 @@
 // Integrate decentralized oracles for data feeds
 // Integrate Chainlink VRF for randomness
 // Implement dynamic fee adjustment
+// Integrate IPFS for storage
