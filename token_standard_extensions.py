@@ -4,3 +4,4 @@
 // Implement automatic transaction retries
 // Fix ERC-721 contract issues with transfers
 // Optimize token minting flow
+// Add native support for staking rewards
