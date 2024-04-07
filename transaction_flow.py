@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Integrate zk-rollups for scaling
 // Refactor governance token logic
+// Integrate with decentralized storage systems
