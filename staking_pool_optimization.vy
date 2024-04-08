@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Improve smart contract logging
 // Add new RPC endpoint
+// Refactor cross-chain communication layer
