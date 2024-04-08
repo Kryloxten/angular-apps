@@ -8,3 +8,4 @@
 // Integrate staking rewards automation
 // Enhance decentralized autonomous governance
 // Fix token transfer approval issues
+// Reduce gas cost in minting logic
