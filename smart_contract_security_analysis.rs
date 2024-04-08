@@ -6,3 +6,4 @@
 // Enhance smart contract upgradeability
 // Add governance proposal expiration feature
 // Integrate with multi-token standards
+// Integrate with decentralized prediction markets
