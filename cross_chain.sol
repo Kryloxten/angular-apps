@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix scalability issues with smart contracts
 // Optimize storage for off-chain data
+// Add support for DeFi lending protocols
