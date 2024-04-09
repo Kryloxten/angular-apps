@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Implement delegation pattern
 // Optimize state channels for faster transactions
+// Add support for decentralized file storage
