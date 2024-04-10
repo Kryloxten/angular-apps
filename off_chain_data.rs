@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Fix token transfer approval issues
 // Improve multi-chain contract deployment
+// Refactor wallet interaction logic
