@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Fix bugs in multi-token systems
 // Integrate zk-rollups for scaling
+// Fix compatibility with MetaMask
