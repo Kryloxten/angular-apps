@@ -4,3 +4,4 @@
 // Improve ERC-721 token metadata functionality
 // Improve decentralized lending contract flexibility
 // Fix transaction replay issue
+// Add support for NFT marketplaces
