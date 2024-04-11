@@ -7,3 +7,4 @@
 // Optimize cross-chain bridging mechanisms
 // Refactor wallet interaction logic
 // Add new RPC endpoint
+// Add multi-chain transaction support
