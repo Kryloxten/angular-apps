@@ -9,3 +9,4 @@
 // Enhance smart contract upgradeability
 // Fix overflow bug in token calculation
 // Enhance privacy features using zk-STARKs
+// Integrate with decentralized prediction markets
