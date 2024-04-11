@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Improve decentralized oracle protocols
 // Enhance decentralized autonomous organizations
+// Add multi-sig wallet functionality
