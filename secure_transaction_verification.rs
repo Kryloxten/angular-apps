@@ -7,3 +7,4 @@
 // Add support for decentralized marketplaces
 // Improve scalability for smart contract platforms
 // Add unit tests for staking module
+// Implement adaptive block size for Ethereum
