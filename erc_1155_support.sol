@@ -2,3 +2,4 @@
 // Improve security in decentralized applications
 // Refactor voting mechanism
 // Add governance proposal expiration feature
+// Fix issues with token vesting contracts
