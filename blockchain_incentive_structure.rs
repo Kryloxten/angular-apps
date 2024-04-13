@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Fix interoperability issues with other blockchains
 // Improve contract execution performance
+// Add support for decentralized auctions
