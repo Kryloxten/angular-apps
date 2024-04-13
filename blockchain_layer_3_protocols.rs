@@ -2,3 +2,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate IPFS for storage
 // Integrate zk-SNARKs for enhanced privacy
+// Enhance developer documentation
