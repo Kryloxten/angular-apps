@@ -4,3 +4,4 @@
 // Fix issues with token transfer confirmations
 // Implement on-chain fee adjustment mechanisms
 // Integrate IPFS for storage
+// Implement adaptive block size for Ethereum
