@@ -7,3 +7,4 @@
 // Refactor contract state machine design
 // Refactor Ethereum gas price management
 // Add support for multiple consensus mechanisms
+// Improve decentralized exchange (DEX) liquidity
