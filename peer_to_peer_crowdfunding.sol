@@ -2,3 +2,4 @@
 // Add support for decentralized credit scoring
 // Integrate with decentralized storage systems
 // Add gas optimization features for smart contracts
+// Bugfix: incorrect reward calculation
