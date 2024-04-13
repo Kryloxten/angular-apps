@@ -10,3 +10,4 @@
 // Enhance contract event handling
 // Enhance privacy features using zk-STARKs
 // Optimize hashing algorithm
+// Reduce gas cost in minting logic
