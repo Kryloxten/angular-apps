@@ -10,3 +10,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for ERC-1155 tokens
 // Add support for multiple consensus mechanisms
+// Enhance gas fee management
