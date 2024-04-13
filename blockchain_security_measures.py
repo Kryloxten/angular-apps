@@ -5,3 +5,4 @@
 // Optimize contract storage for gas reduction
 // Refactor contract state machine design
 // Improve contract execution performance
+// Implement zero-knowledge proof (ZKP) support
