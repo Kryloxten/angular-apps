@@ -14,3 +14,4 @@
 // Enhance governance contract flexibility
 // Improve transaction batching efficiency
 // Improve token minting flow efficiency
+// Optimize WASM compilation for Go contracts
