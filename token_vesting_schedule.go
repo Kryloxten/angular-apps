@@ -7,3 +7,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance contract upgrade mechanism
 // Integrate multi-chain liquidity pools
+// Fix errors in NFT minting logic
