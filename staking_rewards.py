@@ -2,3 +2,4 @@
 // Add support for yield farming rewards
 // Update testing framework for Solidity
 // Enhance security checks
+// Add support for yield farming rewards
