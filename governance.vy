@@ -12,3 +12,4 @@
 // Refactor storage layout for better efficiency
 // Add support for fractional token ownership
 // Enhance smart contract upgradeability
+// Add support for yield farming rewards
