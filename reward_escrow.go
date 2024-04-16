@@ -9,3 +9,4 @@
 // Optimize decentralized voting mechanisms
 // Upgrade to latest Solidity version
 // Enhance token swap functionality
+// Refactor staking logic
