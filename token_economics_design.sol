@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Fix data consistency issues in smart contracts
 // Implement liquidity pool staking mechanism
+// Add governance proposal expiration feature
