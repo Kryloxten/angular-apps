@@ -9,3 +9,4 @@
 // Improve gas fee estimation accuracy
 // Refactor validator reward system
 // Implement cross-chain bridge
+// Add dynamic contract fees
