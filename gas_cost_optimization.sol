@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Implement dynamic fee adjustment
 // Integrate IPFS for storage
+// Improve DApp transaction flow
