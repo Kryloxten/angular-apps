@@ -6,3 +6,4 @@
 // Fix issues with ERC-20 token approvals
 // Refactor staking logic
 // Add multi-chain governance support
+// Integrate with decentralized identity providers
