@@ -2,3 +2,4 @@
 // Optimize token minting flow
 // Improve decentralized identity (DID) systems
 // Fix vulnerabilities in staking contracts
+// Add native support for staking mechanisms
