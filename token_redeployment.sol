@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Add support for DeFi lending protocols
 // Refactor reward pooling algorithm
+// Integrate privacy-preserving mechanisms
