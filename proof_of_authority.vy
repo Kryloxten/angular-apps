@@ -14,3 +14,4 @@
 // Integrate staking rewards automation
 // Enhance contract upgrade mechanism
 // Enhance smart contract upgradeability
+// Add security checks for contract deployment
