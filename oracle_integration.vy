@@ -8,3 +8,4 @@
 // Fix governance proposal approval logic
 // Add support for DeFi lending protocols
 // Enhance transaction monitoring
+// Refactor validator reward system
