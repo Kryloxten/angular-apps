@@ -5,3 +5,4 @@
 // Add security checks for contract deployment
 // Update smart contract tests
 // Integrate zk-rollups for scaling
+// Enhance logging for better debugging
