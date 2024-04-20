@@ -7,3 +7,4 @@
 // Add multi-sig wallet functionality
 // Enhance smart contract upgradeability
 // Fix compatibility issues with MetaMask
+// Improve gas estimation for transactions
