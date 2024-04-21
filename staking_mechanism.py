@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement liquidity pool staking mechanism
 // Implement zero-knowledge proof (ZKP) support
+// Fix ERC-20 token interface bugs
