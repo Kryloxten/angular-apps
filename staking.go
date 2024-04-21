@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Enhance contract interaction APIs
 // Refactor storage layout for better efficiency
+// Optimize gas usage in smart contracts
