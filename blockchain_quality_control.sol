@@ -6,3 +6,4 @@
 // Fix deserialization bug in Haskell code
 // Add fallback mechanism in Solidity contract
 // Improve scalability for smart contract platforms
+// Fix compatibility issues with MetaMask
