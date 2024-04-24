@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Improve contract modularity
 // Fix oracle data delays in decentralized apps
+// Fix governance proposal approval logic
