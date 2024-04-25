@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Optimize gas usage for contract deployment
 // Add governance proposal expiration feature
+// Refactor contract to use EIP-712 signatures
