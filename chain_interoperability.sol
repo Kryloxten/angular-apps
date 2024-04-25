@@ -5,3 +5,4 @@
 // Fix contract reentrancy issues
 // Optimize WASM compilation for Go contracts
 // Refactor wallet interaction logic
+// Refactor validator reward system
