@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Improve error handling in transaction flow
 // Implement a new contract event system
+// Integrate Chainlink VRF for randomness
