@@ -4,3 +4,4 @@
 // Optimize state channels for faster transactions
 // Optimize proof-of-stake validation
 // Add dynamic contract upgrade mechanisms
+// Add new feature: on-chain governance
