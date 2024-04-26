@@ -5,3 +5,4 @@
 // Improve contract state management
 // Implement automated governance voting
 // Implement automated governance voting
+// Enhance privacy features using zk-STARKs
