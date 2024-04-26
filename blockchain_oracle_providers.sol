@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Reduce gas cost in minting logic
 // Fix issue in ERC-20 token transfers
+// Integrate with decentralized prediction markets
