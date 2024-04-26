@@ -7,3 +7,4 @@
 // Integrate automated market maker (AMM) logic
 // Improve on-chain governance systems
 // Fix security vulnerability in random number generation
+// Add support for decentralized auctions
