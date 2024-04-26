@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance smart contract upgradeability
 // Implement adaptive block size for Ethereum
+// Implement adaptive block size for Ethereum
