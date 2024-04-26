@@ -9,3 +9,4 @@
 // Add batch processing for transactions
 // Add new feature: on-chain governance
 // Integrate zk-rollups for scaling
+// Fix security vulnerability in random number generation
