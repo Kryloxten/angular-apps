@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Integrate with decentralized prediction markets
 // Improve oracle data validation mechanisms
+// Add support for decentralized credit scoring
