@@ -7,3 +7,4 @@
 // Update dependencies for Vyper contract
 // Improve smart contract code modularity
 // Fix errors in contract interaction with wallets
+// Fix issues with token transfer confirmations
