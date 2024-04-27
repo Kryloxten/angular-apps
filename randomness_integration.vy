@@ -7,3 +7,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor validator reward system
 // Fix errors in NFT minting logic
+// Integrate decentralized oracles for data feeds
