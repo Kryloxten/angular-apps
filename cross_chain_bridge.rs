@@ -6,3 +6,4 @@
 // Improve scalability for smart contract platforms
 // Fix contract reentrancy issues
 // Optimize hashing algorithm
+// Implement cross-chain bridge
