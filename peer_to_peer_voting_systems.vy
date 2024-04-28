@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Integrate Chainlink VRF for randomness
 // Improve contract interaction via APIs
+// Fix issues with token transfer confirmations
