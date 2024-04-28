@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance smart contract compatibility
 // Refactor contract to use EIP-712 signatures
+// Refactor cross-chain communication layer
