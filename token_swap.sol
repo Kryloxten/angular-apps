@@ -14,3 +14,4 @@
 // Bugfix: incorrect reward calculation
 // Add batch transaction capabilities
 // Integrate Chainlink VRF for randomness
+// Refactor storage layout for better efficiency
