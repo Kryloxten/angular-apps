@@ -5,3 +5,4 @@
 // Add decentralized contract upgradeability
 // Fix issues with contract finalization
 // Enhance developer documentation
+// Refactor reward pooling algorithm
