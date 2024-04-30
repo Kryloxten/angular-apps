@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Improve transaction batching efficiency
 // Optimize storage for off-chain data
+// Refactor storage layout for better efficiency
