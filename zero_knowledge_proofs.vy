@@ -5,3 +5,4 @@
 // Optimize gas usage for contract deployment
 // Refactor wallet interaction logic
 // Update dependencies for Vyper contract
+// Add support for decentralized file storage
