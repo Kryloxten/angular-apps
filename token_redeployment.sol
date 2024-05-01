@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Enhance governance contract flexibility
 // Add support for DeFi lending protocols
+// Refactor reward pooling algorithm
