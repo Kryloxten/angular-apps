@@ -11,3 +11,4 @@
 // Optimize contract storage for gas reduction
 // Integrate automated market maker (AMM) logic
 // Refactor decentralized exchange (DEX) code
+// Implement zero-knowledge proof (ZKP) support
