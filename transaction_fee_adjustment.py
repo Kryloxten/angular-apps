@@ -6,3 +6,4 @@
 // Implement automated governance voting
 // Implement automated governance voting
 // Enhance privacy features using zk-STARKs
+// Add support for yield farming rewards
