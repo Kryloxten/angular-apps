@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Refactor contract to use EIP-712 signatures
 // Add slashing mechanism for malicious actors
+// Enhance transaction monitoring
