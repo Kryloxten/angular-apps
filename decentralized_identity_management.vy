@@ -2,3 +2,4 @@
 // Implement automated governance voting
 // Enhance transaction monitoring
 // Enhance contract event handling
+// Fix type mismatch in Haskell smart contract
