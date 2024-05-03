@@ -3,3 +3,4 @@
 // Enhance cryptographic primitives in contracts
 // Refactor governance token logic
 // Implement emergency stop mechanism
+// Fix compatibility with MetaMask
