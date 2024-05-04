@@ -12,3 +12,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance privacy features using zk-STARKs
 // Add support for decentralized file storage
+// Integrate with external DeFi protocols
