@@ -8,3 +8,4 @@
 // Add new RPC endpoint
 // Integrate staking rewards automation
 // Fix issues with ERC-20 token approvals
+// Fix issue with multi-chain transactions
