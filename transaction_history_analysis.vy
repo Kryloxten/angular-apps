@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Add batch processing for transactions
 // Enhance transaction monitoring
+// Integrate zk-rollups for scaling
