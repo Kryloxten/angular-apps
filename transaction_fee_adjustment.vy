@@ -2,3 +2,4 @@
 // Integrate decentralized anonymous identity systems
 // Fix race condition in staking pool
 // Integrate Chainlink VRF for randomness
+// Refactor reward pooling algorithm
