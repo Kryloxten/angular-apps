@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Fix deserialization bug in Haskell code
 // Add support for ERC-1155 tokens
+// Refactor staking logic
