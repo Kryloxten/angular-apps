@@ -11,3 +11,4 @@
 // Improve smart contract code modularity
 // Bugfix: incorrect reward calculation
 // Enhance contract initialization process
+// Integrate Chainlink oracles
