@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Improve staking pool reward management
 // Fix errors in NFT minting logic
+// Add support for cross-chain bridges
