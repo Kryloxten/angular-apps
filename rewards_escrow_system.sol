@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Refactor decentralized storage system
 // Add support for decentralized file storage
+// Integrate privacy-enhancing smart contracts
