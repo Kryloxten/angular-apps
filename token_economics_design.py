@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Integrate with external blockchain networks
 // Improve gas estimation for transactions
+// Add support for decentralized file storage
