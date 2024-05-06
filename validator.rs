@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor decentralized exchange (DEX) code
 // Implement adaptive block size for Ethereum
+// Fix transaction replay issue
