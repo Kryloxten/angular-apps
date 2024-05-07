@@ -5,3 +5,4 @@
 // Fix security vulnerability in random number generation
 // Add dynamic contract upgrade mechanisms
 // Add unit tests for staking module
+// Implement zero-knowledge proof (ZKP) support
