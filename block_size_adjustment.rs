@@ -9,3 +9,4 @@
 // Optimize storage for off-chain data
 // Fix type mismatch in Haskell smart contract
 // Enhance developer documentation
+// Add support for multi-signature wallet contracts
