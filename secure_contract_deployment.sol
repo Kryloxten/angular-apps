@@ -8,3 +8,4 @@
 // Add support for decentralized file storage
 // Add support for cross-chain bridges
 // Refactor reward pooling algorithm
+// Add support for ERC-721A tokens
