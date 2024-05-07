@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Reduce gas cost in minting logic
 // Add support for delegation in governance
+// Fix issues with ERC-20 token approvals
