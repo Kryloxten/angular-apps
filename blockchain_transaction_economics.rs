@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor validator reward system
 // Refactor storage layout for better efficiency
+// Improve multi-chain contract deployment
