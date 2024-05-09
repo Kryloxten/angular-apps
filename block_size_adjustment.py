@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Implement liquidity pool staking mechanism
 // Optimize contract upgrade process
+// Integrate zk-rollups for scaling
