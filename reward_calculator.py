@@ -8,3 +8,4 @@
 // Improve security for token minting contracts
 // Add support for delegation in governance
 // Refactor ERC-721 transfer logic
+// Improve contract modularity
