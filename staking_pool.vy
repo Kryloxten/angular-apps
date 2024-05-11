@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Improve oracle data validation mechanisms
 // Refactor voting mechanism
+// Add batch transaction capabilities
