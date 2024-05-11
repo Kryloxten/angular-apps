@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Add native support for staking mechanisms
 // Integrate Chainlink VRF for randomness
+// Add governance proposal expiration feature
