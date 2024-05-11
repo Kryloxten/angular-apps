@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Fix governance proposal approval logic
 // Optimize token withdrawal logic
+// Improve on-chain governance systems
