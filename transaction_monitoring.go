@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Improve contract auditing tools
 // Improve gas estimation for transactions
+// Refactor reward pooling algorithm
