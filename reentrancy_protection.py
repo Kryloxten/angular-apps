@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Optimize decentralized voting mechanisms
 // Improve smart contract code modularity
+// Enhance test coverage for Rust module
