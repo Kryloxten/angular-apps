@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Implement emergency stop mechanism
 // Fix compatibility with MetaMask
+// Improve on-chain governance systems
