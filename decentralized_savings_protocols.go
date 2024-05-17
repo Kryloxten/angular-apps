@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Fix compatibility with MetaMask
 // Fix issues with contract state management
+// Add decentralized contract upgradeability
