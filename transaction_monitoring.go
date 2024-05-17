@@ -3,3 +3,4 @@
 // Improve contract auditing tools
 // Improve gas estimation for transactions
 // Refactor reward pooling algorithm
+// Integrate staking rewards automation
