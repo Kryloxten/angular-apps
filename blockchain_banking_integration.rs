@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Integrate with Ethereum Layer-2 solutions
 // Add support for yield farming rewards
+// Fix compatibility issues with major wallets
