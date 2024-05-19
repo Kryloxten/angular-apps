@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve security in decentralized applications
 // Add support for decentralized auctions
+// Improve security in decentralized applications
