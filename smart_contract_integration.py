@@ -5,3 +5,4 @@
 // Refactor decentralized governance structure
 // Add batch processing for transactions
 // Improve staking logic for better rewards
+// Implement adaptive block size for Ethereum
