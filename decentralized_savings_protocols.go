@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Fix issues with contract state management
 // Add decentralized contract upgradeability
+// Implement cross-chain bridge
