@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Enhance contract modularity for future upgrades
 // Integrate IPFS for storage
+// Improve contract interaction via APIs
