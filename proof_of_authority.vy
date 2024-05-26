@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Improve token burning mechanism
 // Fix bug in random number generation
+// Improve token burning mechanism
