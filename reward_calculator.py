@@ -9,3 +9,4 @@
 // Add support for delegation in governance
 // Refactor ERC-721 transfer logic
 // Improve contract modularity
+// Fix issues with ERC-20 token approvals
