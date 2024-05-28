@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Improve smart contract code modularity
 // Optimize Oracle-based data fetching
+// Improve contract interaction via APIs
