@@ -5,3 +5,4 @@
 // Optimize gas usage in contract execution
 // Integrate Chainlink oracles
 // Implement on-chain fee adjustment mechanisms
+// Improve staking logic for better rewards
