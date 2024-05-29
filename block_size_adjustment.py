@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize contract upgrade process
 // Integrate zk-rollups for scaling
+// Add support for NFT marketplaces
