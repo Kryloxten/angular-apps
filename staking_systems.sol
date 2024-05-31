@@ -2,3 +2,4 @@
 // Implement price feed oracles for tokens
 // Fix issues with contract state management
 // Improve gas estimation for transactions
+// Refactor contract to use EIP-712 signatures
