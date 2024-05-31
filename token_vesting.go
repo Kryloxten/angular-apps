@@ -4,3 +4,4 @@
 // Fix scalability issues with smart contracts
 // Optimize WASM compilation for Go contracts
 // Improve contract auditing tools
+// Fix bugs in NFT metadata handling
