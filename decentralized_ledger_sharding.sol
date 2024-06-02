@@ -2,3 +2,4 @@
 // Implement decentralized arbitration in contracts
 // Integrate IPFS for storage
 // Optimize cross-chain bridging mechanisms
+// Integrate zk-rollups for scaling
