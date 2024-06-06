@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Fix security vulnerability in random number generation
 // Optimize gas cost in function execution
+// Refactor contract state machine design
