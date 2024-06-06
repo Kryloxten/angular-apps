@@ -9,3 +9,4 @@
 // Fix issue in token vesting logic
 // Enhance developer documentation
 // Bugfix: incorrect reward calculation
+// Enhance smart contract audit tools
