@@ -4,3 +4,4 @@
 // Fix data consistency issues in smart contracts
 // Implement rewards escrow system
 // Implement rewards escrow system
+// Refactor governance proposal logic
