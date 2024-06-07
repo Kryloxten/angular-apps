@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Implement automatic transaction retries
 // Fix contract reentrancy issues
+// Implement on-chain identity verification
