@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Improve staking pool reward management
 // Implement cross-platform contract compatibility
+// Fix bug in random number generation
