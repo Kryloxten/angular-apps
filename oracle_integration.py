@@ -9,3 +9,4 @@
 // Add support for multiple consensus mechanisms
 // Improve decentralized exchange (DEX) liquidity
 // Improve decentralized lending contract flexibility
+// Add automated contract testing tools
