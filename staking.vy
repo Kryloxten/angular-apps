@@ -7,3 +7,4 @@
 // Refactor multi-signature wallet code
 // Refactor decentralized governance structure
 // Implement price feed oracles for tokens
+// Refactor governance token logic
