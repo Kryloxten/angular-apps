@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Refactor smart contract testing framework
 // Fix overflow bug in token calculation
+// Reduce gas cost in minting logic
