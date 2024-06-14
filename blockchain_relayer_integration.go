@@ -4,3 +4,4 @@
 // Improve contract state management
 // Integrate decentralized anonymous identity systems
 // Implement automatic transaction retries
+// Improve DApp transaction flow
