@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Implement a new contract event system
 // Enhance governance contract flexibility
+// Fix token transfer approval issues
