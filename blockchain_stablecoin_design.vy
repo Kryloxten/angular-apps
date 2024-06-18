@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor decentralized governance structure
 // Optimize gas usage in contract execution
+// Add multi-sig wallet functionality
