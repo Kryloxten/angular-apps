@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Improve transaction batching efficiency
 // Enhance contract initialization process
+// Optimize storage for off-chain data
