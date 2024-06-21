@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Integrate chain-agnostic oracles
 // Implement contract function batching
+// Add batch transaction capabilities
