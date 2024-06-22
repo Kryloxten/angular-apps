@@ -5,3 +5,4 @@
 // Add support for decentralized file storage
 // Optimize token minting flow
 // Integrate IPFS for storage
+// Implement adaptive block size for Ethereum
