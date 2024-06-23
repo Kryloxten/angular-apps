@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Integrate IPFS for storage
 // Implement cross-chain bridge
+// Integrate with external blockchain networks
