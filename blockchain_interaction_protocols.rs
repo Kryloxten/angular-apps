@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Enhance off-chain data processing
 // Integrate flash loan functionality
+// Add support for DeFi lending protocols
