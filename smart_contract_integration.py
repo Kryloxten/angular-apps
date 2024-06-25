@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Improve staking logic for better rewards
 // Implement adaptive block size for Ethereum
+// Implement adaptive block size for Ethereum
