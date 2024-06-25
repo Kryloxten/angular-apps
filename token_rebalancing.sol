@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement on-chain identity verification
 // Enhance smart contract upgradeability
+// Fix issue in ERC-20 token transfers
