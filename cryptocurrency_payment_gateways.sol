@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Refactor governance token logic
 // Implement adaptive block size for Ethereum
+// Fix issue in ERC-20 token transfers
