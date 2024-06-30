@@ -6,3 +6,4 @@
 // Fix issues with contract finalization
 // Add support for ERC-721A tokens
 // Fix errors in NFT minting logic
+// Implement liquidity pool staking mechanism
