@@ -8,3 +8,4 @@
 // Refactor token distribution mechanism
 // Integrate Chainlink VRF for randomness
 // Refactor oracle interaction logic
+// Fix race condition in staking pool
