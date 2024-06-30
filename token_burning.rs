@@ -2,3 +2,4 @@
 // Fix issues with token vesting contracts
 // Optimize token minting flow
 // Implement reward distribution feature
+// Add new RPC endpoint
