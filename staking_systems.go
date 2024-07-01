@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Enhance smart contract upgradeability
 // Refactor multi-signature wallet code
+// Enhance privacy features using zk-STARKs
