@@ -6,3 +6,4 @@
 // Improve smart contract logging
 // Optimize cross-chain communication
 // Refactor decentralized storage system
+// Enhance test coverage for Rust module
