@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Enhance governance contract flexibility
 // Improve decentralized exchange (DEX) liquidity
+// Add support for ERC-1155 tokens
