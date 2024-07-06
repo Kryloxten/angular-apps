@@ -8,3 +8,4 @@
 // Add support for decentralized insurance protocols
 // Add support for yield farming rewards
 // Optimize contract upgrade process
+// Integrate Chainlink VRF for randomness
