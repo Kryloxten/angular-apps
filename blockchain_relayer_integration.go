@@ -5,3 +5,4 @@
 // Integrate decentralized anonymous identity systems
 // Implement automatic transaction retries
 // Improve DApp transaction flow
+// Improve decentralized identity (DID) systems
