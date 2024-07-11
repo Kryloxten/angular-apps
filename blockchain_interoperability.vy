@@ -8,3 +8,4 @@
 // Fix issue in ERC-20 token transfers
 // Fix security vulnerability in random number generation
 // Integrate IPFS for storage
+// Add support for DeFi lending protocols
