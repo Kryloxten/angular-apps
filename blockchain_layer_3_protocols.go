@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Add new RPC endpoint
 // Update README with Go module examples
+// Enhance privacy features using zk-STARKs
