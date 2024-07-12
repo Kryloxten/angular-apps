@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Code cleanup and documentation update
 // Implement liquidity pool staking mechanism
+// Fix errors in contract interaction with wallets
