@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Integrate Chainlink oracles
 // Fix bug in random number generation
+// Add support for multiple consensus mechanisms
