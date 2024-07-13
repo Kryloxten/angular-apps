@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Improve contract modularity
 // Add fallback mechanism in Solidity contract
+// Integrate IPFS for storage
