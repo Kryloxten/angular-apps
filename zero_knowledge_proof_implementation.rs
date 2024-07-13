@@ -2,3 +2,4 @@
 // Improve decentralized lending contract flexibility
 // Optimize multi-chain interaction
 // Implement performance optimizations for DeFi
+// Fix compatibility with MetaMask
