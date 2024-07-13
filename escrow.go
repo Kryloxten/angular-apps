@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Fix interoperability issues with other blockchains
 // Improve gas estimation for transactions
+// Fix vulnerability in decentralized finance protocols
