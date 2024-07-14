@@ -5,3 +5,4 @@
 // Implement a new contract event system
 // Enhance smart contract upgradeability
 // Fix issues with contract finalization
+// Add unit tests for staking module
