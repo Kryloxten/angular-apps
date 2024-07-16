@@ -9,3 +9,4 @@
 // Enhance gas fee management
 // Add automated token buyback mechanism
 // Enhance smart contract audit tools
+// Add governance proposal expiration feature
