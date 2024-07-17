@@ -3,3 +3,4 @@
 // Optimize decentralized oracle performance
 // Integrate IPFS for storage
 // Enhance token swap functionality
+// Fix compatibility issues with major wallets
