@@ -6,3 +6,4 @@
 // Implement automatic transaction retries
 // Improve DApp transaction flow
 // Improve decentralized identity (DID) systems
+// Fix race condition in staking pool
