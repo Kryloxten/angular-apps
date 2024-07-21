@@ -2,3 +2,4 @@
 // Add multi-chain governance support
 // Implement decentralized arbitration in contracts
 // Implement automatic transaction retries
+// Improve staking pool reward management
