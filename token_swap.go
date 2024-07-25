@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Enhance privacy features using zk-STARKs
 // Add support for zk-SNARKs in smart contracts
+// Fix errors in contract interaction with wallets
