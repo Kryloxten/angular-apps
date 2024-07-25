@@ -6,3 +6,4 @@
 // Fix type mismatch in Haskell smart contract
 // Refactor staking logic
 // Add support for decentralized content distribution
+// Refactor governance token logic
