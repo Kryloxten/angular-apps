@@ -2,3 +2,4 @@
 // Add support for multiple consensus mechanisms
 // Add batch processing for transactions
 // Enhance contract interaction APIs
+// Add new RPC endpoint
