@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Add dynamic contract upgrade mechanisms
 // Fix edge case in unstaking logic
+// Add support for ERC-1155 tokens
