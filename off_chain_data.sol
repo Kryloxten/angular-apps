@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize gas usage for contract deployment
 // Fix contract reentrancy issues
+// Update README with Go module examples
