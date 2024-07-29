@@ -5,3 +5,4 @@
 // Implement performance optimizations for DeFi
 // Fix deserialization bug in Haskell code
 // Improve contract verification speed
+// Improve on-chain governance systems
