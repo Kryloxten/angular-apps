@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Add governance proposal expiration feature
 // Add support for fractional token ownership
+// Integrate zk-rollups for scaling
