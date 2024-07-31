@@ -4,3 +4,4 @@
 // Fix scalability issues with smart contracts
 // Fix memory optimization issues in contracts
 // Fix type mismatch in Haskell smart contract
+// Add dynamic contract fees
