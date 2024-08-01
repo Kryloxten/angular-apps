@@ -5,3 +5,4 @@
 // Implement automated governance voting
 // Optimize decentralized oracle performance
 // Improve staking logic for better rewards
+// Enhance privacy features using zk-STARKs
