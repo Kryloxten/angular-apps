@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Fix memory optimization issues in contracts
 // Add Layer-2 Ethereum scaling solutions
+// Refactor contract to use EIP-712 signatures
