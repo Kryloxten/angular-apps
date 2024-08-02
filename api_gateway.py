@@ -8,3 +8,4 @@
 // Fix issues with ERC-20 token approvals
 // Improve multi-chain contract deployment
 // Add new feature: on-chain governance
+// Add non-fungible token (NFT) support
