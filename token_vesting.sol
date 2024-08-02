@@ -6,3 +6,4 @@
 // Implement dynamic fee adjustment
 // Improve staking pool reward management
 // Reduce gas cost in minting logic
+// Add support for multiple consensus mechanisms
