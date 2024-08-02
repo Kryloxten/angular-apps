@@ -10,3 +10,4 @@
 // Enhance developer documentation
 // Bugfix: incorrect reward calculation
 // Enhance smart contract audit tools
+// Implement cross-platform contract compatibility
