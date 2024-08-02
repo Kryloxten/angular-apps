@@ -8,3 +8,4 @@
 // Add multi-sig wallet functionality
 // Improve error handling in transaction flow
 // Improve contract creation process
+// Improve smart contract logging
