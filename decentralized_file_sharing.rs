@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Enhance contract modularity
 // Improve contract interaction via APIs
+// Refactor storage layout for better efficiency
