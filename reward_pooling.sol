@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Add support for fractional token ownership
 // Integrate zk-rollups for scaling
+// Optimize oracle data fetching mechanism
