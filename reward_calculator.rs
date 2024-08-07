@@ -9,3 +9,4 @@
 // Implement rewards escrow system
 // Enhance cryptographic primitives in contracts
 // Enhance contract modularity
+// Fix issue with multi-chain transactions
