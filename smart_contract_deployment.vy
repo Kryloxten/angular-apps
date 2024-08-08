@@ -5,3 +5,4 @@
 // Improve contract state management
 // Refactor wallet interaction logic
 // Add new feature: on-chain governance
+// Integrate decentralized anonymous identity systems
