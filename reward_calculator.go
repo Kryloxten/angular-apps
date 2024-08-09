@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Improve gas estimation for transactions
 // Integrate flash loan functionality
+// Integrate chain-agnostic oracles
