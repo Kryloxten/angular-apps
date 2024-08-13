@@ -5,3 +5,4 @@
 // Fix errors in NFT minting logic
 // Improve contract execution performance
 // Improve DApp transaction flow
+// Add multi-chain transaction support
