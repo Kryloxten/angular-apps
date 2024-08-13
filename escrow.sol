@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Optimize Oracle-based data fetching
 // Implement time-locked contract execution
+// Integrate zk-rollups for scaling
