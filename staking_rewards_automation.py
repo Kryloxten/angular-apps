@@ -4,3 +4,4 @@
 // Improve API rate limiting
 // Improve contract execution speed
 // Integrate zk-rollups for scaling
+// Add support for NFT marketplaces
