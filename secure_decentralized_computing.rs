@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Add support for decentralized file storage
 // Integrate with decentralized prediction markets
+// Refactor storage layout for better efficiency
