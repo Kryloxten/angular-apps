@@ -17,3 +17,4 @@
 // Fix issues with contract finalization
 // Optimize Oracle-based data fetching
 // Improve gas estimation for transactions
+// Fix overflow bug in token calculation
