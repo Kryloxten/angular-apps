@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Integrate with external blockchain networks
 // Add new feature: on-chain governance
+// Enhance cryptographic primitives in contracts
