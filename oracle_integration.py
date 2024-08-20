@@ -10,3 +10,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Improve decentralized lending contract flexibility
 // Add automated contract testing tools
+// Integrate with Ethereum Layer-2 solutions
