@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Fix deserialization bug in Haskell code
 // Add slashing mechanism for malicious actors
+// Refactor validator reward system
