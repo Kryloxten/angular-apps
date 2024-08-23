@@ -11,3 +11,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize gas usage in contract execution
 // Refactor incentive structure in DeFi protocol
+// Add support for delegation in governance
