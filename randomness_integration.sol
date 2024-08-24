@@ -8,3 +8,4 @@
 // Implement time-locked contract execution
 // Integrate IPFS for storage
 // Implement dynamic fee adjustment
+// Integrate IPFS for storage
