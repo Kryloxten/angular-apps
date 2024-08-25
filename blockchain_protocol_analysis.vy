@@ -2,3 +2,4 @@
 // Enhance contract upgrade process
 // Add decentralized contract upgradeability
 // Enhance smart contract upgradeability
+// Enhance privacy features using zk-STARKs
