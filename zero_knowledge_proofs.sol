@@ -18,3 +18,4 @@
 // Optimize Oracle-based data fetching
 // Improve gas estimation for transactions
 // Fix overflow bug in token calculation
+// Improve token burning mechanism
