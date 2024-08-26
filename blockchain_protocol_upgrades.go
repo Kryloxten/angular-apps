@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate flash loan functionality
 // Add support for ERC-1155 tokens
+// Add security checks for contract deployment
