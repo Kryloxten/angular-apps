@@ -8,3 +8,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add slashing mechanism for malicious actors
 // Improve contract auditing tools
+// Refactor reward pooling algorithm
