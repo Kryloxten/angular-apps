@@ -5,3 +5,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Add native support for staking rewards
 // Add support for Layer-2 solutions
+// Refactor incentive structure in DeFi protocol
