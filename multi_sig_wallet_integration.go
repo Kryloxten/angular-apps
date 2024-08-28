@@ -4,3 +4,4 @@
 // Improve decentralized lending contract flexibility
 // Improve cross-chain asset management
 // Add support for multi-signature wallet contracts
+// Add support for zk-SNARKs in smart contracts
