@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Refactor staking logic
 // Add fallback mechanism in Solidity contract
+// Improve transaction batching efficiency
