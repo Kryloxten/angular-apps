@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Add support for ERC-1155 tokens
 // Enhance privacy features using zk-STARKs
+// Optimize state channels for faster transactions
