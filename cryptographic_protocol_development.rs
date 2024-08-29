@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Add support for delegation in governance
 // Refactor decentralized governance structure
+// Add multi-sig wallet functionality
