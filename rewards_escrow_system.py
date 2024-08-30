@@ -7,3 +7,4 @@
 // Add support for ERC-721A tokens
 // Fix errors in NFT minting logic
 // Implement liquidity pool staking mechanism
+// Add support for decentralized credit scoring
