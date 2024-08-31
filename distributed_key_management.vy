@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Improve smart contract code modularity
 // Improve API rate limiting
+// Implement delegation pattern
