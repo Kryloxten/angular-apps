@@ -14,3 +14,4 @@
 // Fix errors in contract interaction with wallets
 // Optimize gas usage in contract execution
 // Enhance developer documentation
+// Add fallback mechanism in Solidity contract
