@@ -4,3 +4,4 @@
 // Add support for batch transaction processing
 // Add support for delegation in governance
 // Add support for fractional token ownership
+// Add unit tests for staking module
