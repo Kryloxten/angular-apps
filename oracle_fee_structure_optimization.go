@@ -5,3 +5,4 @@
 // Enhance contract state verification
 // Refactor governance proposal logic
 // Improve gas estimation for transactions
+// Refactor reward pooling algorithm
