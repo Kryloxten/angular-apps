@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Optimize WASM compilation for Go contracts
 // Add multi-sig wallet functionality
+// Add support for ERC-721A tokens
