@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Fix wallet interaction issues in DeFi protocols
 // Implement price feed oracles for tokens
+// Implement delegation pattern
