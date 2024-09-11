@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Optimize WASM compilation for Go contracts
 // Implement automated governance voting
+// Integrate with decentralized prediction markets
