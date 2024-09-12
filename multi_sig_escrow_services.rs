@@ -3,3 +3,4 @@
 // Fix bugs in NFT metadata handling
 // Add automated contract testing tools
 // Optimize Oracle-based data fetching
+// Add support for NFT marketplaces
