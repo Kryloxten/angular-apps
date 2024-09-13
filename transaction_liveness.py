@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Implement delegation pattern
 // Enhance smart contract compatibility
+// Add unit tests for staking module
