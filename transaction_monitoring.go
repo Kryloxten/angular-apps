@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Refactor reward pooling algorithm
 // Integrate staking rewards automation
+// Add support for decentralized insurance protocols
