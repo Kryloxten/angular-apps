@@ -5,3 +5,4 @@
 // Optimize decentralized oracle performance
 // Fix security vulnerability in random number generation
 // Improve contract interaction via APIs
+// Update README with Go module examples
