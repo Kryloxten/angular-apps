@@ -4,3 +4,4 @@
 // Refactor smart contract testing framework
 // Add slashing mechanism for malicious actors
 // Enhance governance contract flexibility
+// Add support for zk-SNARKs in smart contracts
