@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Add unit tests for staking module
 // Implement time-locked contract execution
+// Implement contract function batching
