@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Implement decentralized arbitration in contracts
 // Fix errors in contract interaction with wallets
+// Implement delegation pattern
