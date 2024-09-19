@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Implement time-locked contract execution
 // Implement contract function batching
+// Update testing framework for Solidity
