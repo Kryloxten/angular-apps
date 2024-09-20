@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Refactor contract state machine design
 // Improve token burning mechanism
+// Enhance contract state verification
