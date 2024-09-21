@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Fix compatibility with MetaMask
 // Enhance privacy features using zk-STARKs
+// Optimize storage for off-chain data
