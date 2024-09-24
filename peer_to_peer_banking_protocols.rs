@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Reduce gas cost in minting logic
 // Implement automatic transaction retries
+// Add support for delegation in governance
