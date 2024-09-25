@@ -9,3 +9,4 @@
 // Add support for decentralized lending platforms
 // Fix interoperability issues with other blockchains
 // Implement contract function batching
+// Integrate with Ethereum Layer-2 solutions
