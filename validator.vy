@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Improve DApp transaction flow
 // Implement a new contract event system
+// Enhance developer documentation
