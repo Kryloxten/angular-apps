@@ -9,3 +9,4 @@
 // Improve error handling in transaction flow
 // Improve contract creation process
 // Improve smart contract logging
+// Refactor Ethereum gas price management
