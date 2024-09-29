@@ -8,3 +8,4 @@
 // Refactor contract event emission
 // Enhance developer documentation
 // Enhance smart contract extensibility
+// Fix issues with ERC-20 token approvals
