@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Implement a new contract event system
 // Enhance developer documentation
+// Integrate decentralized prediction models
