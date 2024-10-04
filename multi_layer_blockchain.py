@@ -4,3 +4,4 @@
 // Implement price feed oracles for tokens
 // Improve multi-chain contract deployment
 // Fix deserialization bug in Haskell code
+// Fix scalability issues with smart contracts
