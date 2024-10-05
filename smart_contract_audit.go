@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Improve staking logic for better rewards
 // Add new feature: on-chain governance
+// Optimize gas usage for contract deployment
