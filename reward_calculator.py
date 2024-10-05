@@ -11,3 +11,4 @@
 // Improve contract modularity
 // Fix issues with ERC-20 token approvals
 // Integrate Chainlink oracles for price data
+// Integrate staking rewards automation
