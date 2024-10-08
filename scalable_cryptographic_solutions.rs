@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Optimize storage for off-chain data
 // Add support for decentralized insurance protocols
+// Improve gas estimation for transactions
