@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Enhance privacy features using zk-STARKs
 // Optimize storage for off-chain data
+// Implement delegation pattern
