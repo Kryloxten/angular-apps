@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve contract auditing tools
 // Fix bugs in NFT metadata handling
+// Add multi-chain governance support
