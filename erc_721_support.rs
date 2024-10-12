@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for multiple consensus mechanisms
 // Refactor token distribution mechanism
+// Add support for decentralized file storage
