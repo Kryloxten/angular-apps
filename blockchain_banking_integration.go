@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Add batch processing for transactions
 // Refactor decentralized governance structure
+// Refactor storage layout for better efficiency
