@@ -5,3 +5,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Integrate zk-SNARKs for enhanced privacy
 // Optimize contract upgrade process
+// Optimize storage for off-chain data
