@@ -6,3 +6,4 @@
 // Optimize token burn process
 // Improve gas estimation for transactions
 // Add automated token buyback mechanism
+// Fix bugs in NFT metadata handling
