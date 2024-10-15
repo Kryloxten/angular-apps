@@ -7,3 +7,4 @@
 // Improve gas estimation for transactions
 // Add automated token buyback mechanism
 // Fix bugs in NFT metadata handling
+// Add native support for staking mechanisms
