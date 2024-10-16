@@ -13,3 +13,4 @@
 // Integrate decentralized oracles for data feeds
 // Enhance contract modularity
 // Improve token minting flow efficiency
+// Add unit tests for staking module
