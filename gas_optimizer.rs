@@ -7,3 +7,4 @@
 // Enhance token swap functionality
 // Implement automated governance voting
 // Refactor incentive structure in DeFi protocol
+// Add support for ERC-721A tokens
