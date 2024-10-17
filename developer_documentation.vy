@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Improve staking pool reward management
 // Fix interoperability issues with other blockchains
+// Refactor cross-chain communication layer
