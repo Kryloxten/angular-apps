@@ -10,3 +10,4 @@
 // Implement dynamic fee adjustment
 // Integrate IPFS for storage
 // Enhance transaction monitoring
+// Add Layer-2 Ethereum scaling solutions
