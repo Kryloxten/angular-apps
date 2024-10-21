@@ -6,3 +6,4 @@
 // Enhance contract modularity for future upgrades
 // Improve contract auditing tools
 // Add support for yield farming rewards
+// Integrate Chainlink oracles
