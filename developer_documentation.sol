@@ -13,3 +13,4 @@
 // Fix interoperability issues with other blockchains
 // Fix compatibility issues with major wallets
 // Add support for yield farming rewards
+// Fix memory leak in Rust smart contract
