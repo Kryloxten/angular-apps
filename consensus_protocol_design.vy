@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Integrate with external DeFi protocols
 // Improve smart contract code modularity
+// Fix governance proposal approval logic
