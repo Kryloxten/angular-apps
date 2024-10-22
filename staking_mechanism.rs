@@ -12,3 +12,4 @@
 // Fix token transfer approval issues
 // Fix issue in ERC-20 token transfers
 // Integrate Chainlink VRF for randomness
+// Refactor storage layout for better efficiency
