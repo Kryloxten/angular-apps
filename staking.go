@@ -3,3 +3,4 @@
 // Implement contract function batching
 // Add dynamic contract fees
 // Improve contract modularity
+// Integrate IPFS for storage
