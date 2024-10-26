@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Refactor governance proposal logic
 // Enhance off-chain data processing
+// Enhance smart contract compatibility
