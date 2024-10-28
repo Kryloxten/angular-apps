@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Optimize gas usage in smart contracts
 // Enhance governance contract flexibility
+// Integrate IPFS for storage
