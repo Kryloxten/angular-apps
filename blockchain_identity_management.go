@@ -6,3 +6,4 @@
 // Implement liquidity pool staking mechanism
 // Fix token transfer approval issues
 // Integrate zk-SNARKs for enhanced privacy
+// Refactor reward pooling algorithm
