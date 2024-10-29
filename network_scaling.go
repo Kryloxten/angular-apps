@@ -3,3 +3,4 @@
 // Refactor decentralized governance structure
 // Enhance smart contract upgradeability
 // Bugfix: incorrect reward calculation
+// Enhance transaction monitoring
