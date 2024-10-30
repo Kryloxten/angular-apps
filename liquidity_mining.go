@@ -5,3 +5,4 @@
 // Add multi-chain governance support
 // Improve DApp transaction flow
 // Update smart contract tests
+// Enhance smart contract upgradeability
