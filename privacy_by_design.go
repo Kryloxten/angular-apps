@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Fix issues with token transfer confirmations
 // Refactor wallet interaction logic
+// Refactor cross-chain communication layer
