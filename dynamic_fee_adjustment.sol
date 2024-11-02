@@ -8,3 +8,4 @@
 // Refactor Ethereum gas price management
 // Enhance contract interaction APIs
 // Enhance developer documentation
+// Integrate Chainlink oracles
