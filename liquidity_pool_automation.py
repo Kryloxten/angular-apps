@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Enhance smart contract upgradeability
 // Refactor reward pooling algorithm
+// Integrate zk-rollups for scaling
