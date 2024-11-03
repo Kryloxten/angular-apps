@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Improve DApp transaction flow
 // Integrate Chainlink oracles
+// Implement dynamic fee adjustment
