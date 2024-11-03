@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Implement a new contract event system
 // Integrate IPFS for storage
+// Improve contract auditing tools
