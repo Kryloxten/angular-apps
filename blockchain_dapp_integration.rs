@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Implement performance optimizations for DeFi
 // Add batch processing for transactions
+// Refactor decentralized exchange (DEX) code
