@@ -6,3 +6,4 @@
 // Fix compatibility issues with major wallets
 // Enhance contract upgrade mechanism
 // Refactor token economics model
+// Implement on-chain identity verification
