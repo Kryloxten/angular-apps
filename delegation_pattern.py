@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate Chainlink oracles for price data
 // Improve contract state management
+// Optimize gas usage for contract deployment
