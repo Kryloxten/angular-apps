@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Fix issues with cross-chain transaction finality
 // Add support for decentralized auctions
+// Implement delegation pattern
