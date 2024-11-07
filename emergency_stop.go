@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Optimize oracle data fetching mechanism
 // Refactor voting mechanism
+// Improve token burning mechanism
