@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Enhance gas fee management
 // Enhance smart contract state changes monitoring
+// Add multi-chain transaction support
