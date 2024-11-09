@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Improve contract state management
 // Add automated contract testing tools
+// Integrate zk-rollups for scaling
