@@ -6,3 +6,4 @@
 // Optimize storage for off-chain data
 // Optimize gas usage in contract execution
 // Integrate decentralized prediction models
+// Add support for zk-SNARKs in smart contracts
