@@ -6,3 +6,4 @@
 // Improve transaction batching efficiency
 // Enhance contract modularity for future upgrades
 // Enhance developer documentation
+// Integrate IPFS for storage
