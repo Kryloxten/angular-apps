@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Reduce gas cost in minting logic
 // Improve decentralized lending contract flexibility
+// Implement zero-knowledge proof (ZKP) support
