@@ -4,3 +4,4 @@
 // Fix bugs in NFT metadata handling
 // Integrate IPFS for storage
 // Improve gas fee estimation accuracy
+// Enhance contract modularity
