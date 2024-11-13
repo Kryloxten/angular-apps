@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Fix transaction replay issue
 // Improve multi-chain contract deployment
+// Add fallback mechanism in Solidity contract
