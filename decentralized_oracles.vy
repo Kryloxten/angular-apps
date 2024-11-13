@@ -14,3 +14,4 @@
 // Implement reward distribution feature
 // Optimize gas usage in contract execution
 // Improve decentralized identity (DID) systems
+// Integrate Chainlink VRF for randomness
