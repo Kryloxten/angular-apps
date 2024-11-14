@@ -8,3 +8,4 @@
 // Improve contract state management
 // Enhance smart contract upgradeability
 // Fix overflow bug in token calculation
+// Enhance privacy features using zk-STARKs
