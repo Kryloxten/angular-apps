@@ -2,3 +2,4 @@
 // Enhance contract interaction APIs
 // Enhance smart contract compatibility
 // Add unit tests for staking module
+// Refactor decentralized storage system
