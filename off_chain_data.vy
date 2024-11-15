@@ -7,3 +7,4 @@
 // Improve contract auditing tools
 // Add support for yield farming rewards
 // Integrate Chainlink oracles
+// Integrate with decentralized prediction markets
