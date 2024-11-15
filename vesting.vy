@@ -7,3 +7,4 @@
 // Add support for delegation in governance
 // Refactor decentralized exchange (DEX) code
 // Optimize storage for off-chain data
+// Integrate multi-chain liquidity pools
