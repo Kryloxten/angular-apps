@@ -5,3 +5,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Enhance logging for better debugging
 // Add slashing mechanism for malicious actors
+// Improve error handling in transaction flow
