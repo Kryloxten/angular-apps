@@ -5,3 +5,4 @@
 // Add security checks for contract deployment
 // Integrate chain-agnostic oracles
 // Refactor Ethereum gas price management
+// Fix overflow bug in token calculation
