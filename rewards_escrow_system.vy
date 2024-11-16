@@ -9,3 +9,4 @@
 // Add support for decentralized file storage
 // Optimize token minting flow
 // Optimize decentralized voting mechanisms
+// Integrate with external DeFi protocols
