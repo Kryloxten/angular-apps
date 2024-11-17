@@ -6,3 +6,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance privacy features using zk-STARKs
 // Improve decentralized oracle protocols
+// Integrate zk-SNARKs for enhanced privacy
