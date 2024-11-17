@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Refactor decentralized governance structure
 // Add multi-sig wallet functionality
+// Improve contract auditing tools
