@@ -8,3 +8,4 @@
 // Enhance contract modularity
 // Fix Oracle communication delay issues
 // Improve decentralized identity (DID) systems
+// Refactor reward pooling algorithm
