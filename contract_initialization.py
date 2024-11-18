@@ -9,3 +9,4 @@
 // Implement cross-chain bridge
 // Update smart contract tests
 // Optimize hashing algorithm
+// Refactor ERC-721 transfer logic
