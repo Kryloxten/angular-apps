@@ -5,3 +5,4 @@
 // Optimize Oracle-based data fetching
 // Optimize token burn process
 // Fix compatibility with MetaMask
+// Optimize cross-chain bridging mechanisms
