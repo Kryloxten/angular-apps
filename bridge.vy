@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Optimize contract storage for gas reduction
 // Optimize Oracle-based data fetching
+// Enhance logging for better debugging
