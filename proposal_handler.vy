@@ -8,3 +8,4 @@
 // Fix governance proposal approval logic
 // Enhance governance contract flexibility
 // Enhance privacy features using zk-STARKs
+// Add batch transaction capabilities
