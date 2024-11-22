@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance logging for better debugging
 // Implement delegation pattern
+// Improve multi-chain transaction processing
