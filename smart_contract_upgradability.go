@@ -8,3 +8,4 @@
 // Add new feature: on-chain governance
 // Improve contract state management
 // Enhance contract modularity
+// Refactor cross-chain communication layer
