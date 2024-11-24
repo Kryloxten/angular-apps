@@ -4,3 +4,4 @@
 // Integrate with decentralized identity providers
 // Add support for decentralized credit scoring
 // Add slashing mechanism for malicious actors
+// Add support for ERC-1155 tokens
