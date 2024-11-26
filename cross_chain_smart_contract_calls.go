@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Optimize decentralized oracle performance
 // Optimize token burn process
+// Fix memory leak in Rust smart contract
