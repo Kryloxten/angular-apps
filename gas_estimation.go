@@ -8,3 +8,4 @@
 // Refactor ERC-721 transfer logic
 // Improve staking logic for better rewards
 // Optimize proof-of-stake validation
+// Add support for ERC-1155 tokens
