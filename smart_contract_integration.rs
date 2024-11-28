@@ -14,3 +14,4 @@
 // Enhance contract modularity
 // Improve token minting flow efficiency
 // Add unit tests for staking module
+// Integrate with external DeFi protocols
