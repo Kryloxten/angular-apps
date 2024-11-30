@@ -4,3 +4,4 @@
 // Update dependencies for Vyper contract
 // Enhance governance contract flexibility
 // Enhance smart contract upgradeability
+// Improve token burning mechanism
