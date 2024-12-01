@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Refactor voting mechanism
 // Fix issues with ERC-20 token approvals
+// Refactor staking logic
