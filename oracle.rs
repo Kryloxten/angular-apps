@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Improve on-chain governance systems
 // Optimize proof-of-stake validation
+// Refactor Ethereum gas price management
