@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Fix deserialization bug in Haskell code
 // Code cleanup and documentation update
+// Refactor staking logic
