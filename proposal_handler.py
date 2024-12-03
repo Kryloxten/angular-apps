@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Implement on-chain identity verification
 // Fix issues with token vesting contracts
+// Enhance smart contract state changes monitoring
