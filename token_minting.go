@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Fix issue in token vesting logic
 // Integrate privacy-enhancing smart contracts
+// Enhance gas fee management
