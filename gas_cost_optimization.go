@@ -6,3 +6,4 @@
 // Enhance decentralized autonomous organizations
 // Add multi-sig wallet functionality
 // Enhance smart contract upgradeability
+// Fix compatibility issues with MetaMask
