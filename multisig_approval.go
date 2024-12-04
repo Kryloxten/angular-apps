@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Fix transaction replay issue
 // Refactor contract to use EIP-712 signatures
+// Implement a new contract event system
