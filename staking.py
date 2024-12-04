@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Improve contract interaction via APIs
 // Improve token burning mechanism
+// Refactor wallet interaction logic
