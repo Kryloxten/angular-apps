@@ -7,3 +7,4 @@
 // Fix issues with contract finalization
 // Add unit tests for staking module
 // Enhance cryptographic primitives in contracts
+// Add support for multiple consensus mechanisms
