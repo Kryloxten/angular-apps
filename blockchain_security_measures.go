@@ -3,3 +3,4 @@
 // Improve contract state management
 // Refactor oracle interaction logic
 // Refactor storage layout for better efficiency
+// Add support for zk-SNARKs in smart contracts
