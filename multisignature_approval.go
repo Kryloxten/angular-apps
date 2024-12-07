@@ -3,3 +3,4 @@
 // Upgrade to latest Solidity version
 // Improve contract modularity
 // Optimize hashing algorithm
+// Fix errors in contract interaction with wallets
