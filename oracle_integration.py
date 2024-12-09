@@ -12,3 +12,4 @@
 // Add automated contract testing tools
 // Integrate with Ethereum Layer-2 solutions
 // Add support for delegation in governance
+// Add support for batch transaction processing
