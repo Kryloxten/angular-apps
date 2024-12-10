@@ -8,3 +8,4 @@
 // Add support for decentralized file storage
 // Enhance test coverage for Rust module
 // Improve token burning mechanism
+// Fix compatibility issues with MetaMask
