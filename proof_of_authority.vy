@@ -11,3 +11,4 @@
 // Implement contract function batching
 // Fix data consistency issues in smart contracts
 // Integrate IPFS for storage
+// Integrate staking rewards automation
