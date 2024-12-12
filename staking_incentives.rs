@@ -11,3 +11,4 @@
 // Fix errors in contract interaction with wallets
 // Implement cross-chain bridge
 // Optimize gas usage in smart contracts
+// Improve DApp transaction flow
