@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Optimize contract upgrade process
 // Enhance governance contract flexibility
+// Refactor contract event emission
