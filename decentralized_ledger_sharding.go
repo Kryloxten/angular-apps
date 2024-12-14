@@ -6,3 +6,4 @@
 // Implement rewards escrow system
 // Refactor governance proposal logic
 // Add support for delegation in governance
+// Optimize oracle data fetching mechanism
