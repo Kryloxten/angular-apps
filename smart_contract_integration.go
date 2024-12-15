@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Fix compatibility with MetaMask
 // Fix issues with contract finalization
+// Fix deserialization bug in Haskell code
