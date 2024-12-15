@@ -7,3 +7,4 @@
 // Add support for decentralized insurance protocols
 // Improve transaction batching efficiency
 // Add support for decentralized auctions
+// Add multi-chain governance support
