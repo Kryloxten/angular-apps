@@ -4,3 +4,4 @@
 // Integrate with external DeFi protocols
 // Implement price feed oracles for tokens
 // Fix memory leak in Rust smart contract
+// Refactor governance token logic
