@@ -8,3 +8,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize token minting flow
 // Refactor decentralized governance structure
+// Add security checks for contract deployment
