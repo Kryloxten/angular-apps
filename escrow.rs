@@ -8,3 +8,4 @@
 // Code cleanup and documentation update
 // Improve gas fee estimation accuracy
 // Refactor validator reward system
+// Implement cross-chain bridge
