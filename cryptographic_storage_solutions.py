@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Add unit tests for staking module
 // Refactor decentralized storage system
+// Integrate Chainlink VRF for randomness
