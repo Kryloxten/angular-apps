@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Add governance proposal expiration feature
 // Implement liquidity pool staking mechanism
+// Add non-fungible token (NFT) support
