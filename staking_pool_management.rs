@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Add support for delegation in governance
 // Improve smart contract code modularity
+// Fix compatibility issues with major wallets
