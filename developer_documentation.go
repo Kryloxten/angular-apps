@@ -8,3 +8,4 @@
 // Enhance decentralized autonomous governance
 // Refactor contract state machine design
 // Enhance contract event handling
+// Enhance privacy features using zk-STARKs
