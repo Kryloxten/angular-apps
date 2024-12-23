@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Add slashing mechanism for malicious actors
 // Improve error handling in transaction flow
+// Implement adaptive block size for Ethereum
