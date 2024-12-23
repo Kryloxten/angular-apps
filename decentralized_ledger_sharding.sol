@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Integrate Chainlink oracles for price data
 // Refactor token distribution mechanism
+// Enhance governance contract flexibility
