@@ -8,3 +8,4 @@
 // Fix transaction replay issue
 // Improve smart contract logging
 // Update testing framework for Solidity
+// Add decentralized contract upgradeability
