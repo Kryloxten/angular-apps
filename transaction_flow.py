@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Refactor governance token logic
 // Integrate with decentralized storage systems
+// Integrate decentralized anonymous identity systems
