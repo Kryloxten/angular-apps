@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Improve security for token minting contracts
 // Add support for decentralized credit scoring
+// Add support for decentralized insurance protocols
