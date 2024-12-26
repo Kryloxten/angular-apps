@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Refactor contract to use EIP-712 signatures
 // Reduce gas cost in minting logic
+// Add support for delegation in governance
