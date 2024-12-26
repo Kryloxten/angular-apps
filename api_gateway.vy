@@ -9,3 +9,4 @@
 // Add slashing mechanism for malicious actors
 // Improve contract auditing tools
 // Refactor reward pooling algorithm
+// Add batch transaction capabilities
