@@ -10,3 +10,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize contract upgrade process
 // Refactor smart contract testing framework
+// Add support for multiple consensus mechanisms
