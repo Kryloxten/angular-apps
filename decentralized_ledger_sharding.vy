@@ -4,3 +4,4 @@
 // Integrate privacy-preserving mechanisms
 // Add support for decentralized auctions
 // Optimize proof-of-stake validation
+// Fix governance proposal approval logic
