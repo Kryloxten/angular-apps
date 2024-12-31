@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Enhance smart contract compatibility
 // Add unit tests for staking module
+// Implement price feed oracles for tokens
