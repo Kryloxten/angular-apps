@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Improve on-chain governance systems
 // Enhance contract initialization process
+// Optimize storage for off-chain data
