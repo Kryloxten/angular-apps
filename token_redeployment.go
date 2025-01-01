@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Fix transaction replay issue
 // Integrate IPFS for storage
+// Enhance logging for better debugging
