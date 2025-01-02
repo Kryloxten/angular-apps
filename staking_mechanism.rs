@@ -14,3 +14,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor storage layout for better efficiency
 // Integrate Chainlink VRF for randomness
+// Add batch transaction capabilities
