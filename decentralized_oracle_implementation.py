@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Implement delegation pattern
 // Refactor token economics model
+// Refactor Ethereum gas price management
