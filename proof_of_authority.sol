@@ -8,3 +8,4 @@
 // Add support for DeFi lending protocols
 // Update dependencies for Vyper contract
 // Improve on-chain governance systems
+// Improve gas estimation for transactions
