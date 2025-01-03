@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Optimize hashing algorithm
 // Fix errors in contract interaction with wallets
+// Fix issues with ERC-20 token approvals
