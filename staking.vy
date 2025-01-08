@@ -10,3 +10,4 @@
 // Refactor governance token logic
 // Improve contract execution performance
 // Fix issue with multi-chain transactions
+// Improve staking and yield farming logic
