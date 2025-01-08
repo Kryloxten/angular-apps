@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Integrate with decentralized identity providers
 // Implement performance optimizations for DeFi
+// Integrate automated market maker (AMM) logic
