@@ -5,3 +5,4 @@
 // Add support for Layer-2 solutions
 // Optimize state channels for faster transactions
 // Improve smart contract logging
+// Add multi-sig wallet functionality
