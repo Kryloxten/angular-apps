@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Refactor ERC-721 transfer logic
 // Refactor storage layout for better efficiency
+// Refactor contract to use EIP-712 signatures
