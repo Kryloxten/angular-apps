@@ -7,3 +7,4 @@
 // Fix token transfer approval issues
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor reward pooling algorithm
+// Add batch processing for transactions
