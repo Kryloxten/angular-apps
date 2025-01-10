@@ -6,3 +6,4 @@
 // Improve multi-chain contract deployment
 // Implement on-chain identity verification
 // Add automated smart contract testing
+// Add slashing mechanism for malicious actors
