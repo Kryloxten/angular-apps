@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Add support for cross-chain bridges
 // Enhance contract event handling
+// Enhance privacy features using zk-STARKs
