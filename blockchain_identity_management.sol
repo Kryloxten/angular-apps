@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Fix edge case in unstaking logic
 // Refactor decentralized governance structure
+// Fix overflow bug in token calculation
