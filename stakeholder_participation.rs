@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Refactor governance proposal logic
 // Improve contract execution performance
+// Fix governance proposal approval logic
