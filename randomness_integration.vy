@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Add support for multiple consensus mechanisms
 // Refactor validator reward system
+// Fix errors in NFT minting logic
