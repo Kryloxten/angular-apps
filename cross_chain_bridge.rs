@@ -10,3 +10,4 @@
 // Optimize storage for off-chain data
 // Fix compatibility issues with major wallets
 // Add new feature: on-chain governance
+// Update dependencies for Vyper contract
