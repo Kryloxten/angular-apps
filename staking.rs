@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Code cleanup and documentation update
 // Refactor staking logic
+// Implement price feed oracles for tokens
