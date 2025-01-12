@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Improve gas estimation for transactions
 // Optimize hashing algorithm
+// Integrate with external blockchain networks
