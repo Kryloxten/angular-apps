@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous governance
 // Fix bug in random number generation
 // Refactor validator reward system
+// Optimize contract storage for gas reduction
