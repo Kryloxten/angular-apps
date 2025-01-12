@@ -9,3 +9,4 @@
 // Refactor governance token logic
 // Fix issues with gas optimization in smart contracts
 // Fix issues with ERC-20 token approvals
+// Refactor cross-chain communication layer
