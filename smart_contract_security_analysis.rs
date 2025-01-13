@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Optimize hashing algorithm
 // Enhance smart contract upgradeability
+// Add governance proposal expiration feature
