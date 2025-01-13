@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Fix overflow bug in token calculation
 // Integrate with Ethereum Layer-2 solutions
+// Refactor decentralized exchange (DEX) code
