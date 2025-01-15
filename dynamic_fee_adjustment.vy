@@ -8,3 +8,4 @@
 // Implement liquidity pool staking mechanism
 // Add support for ERC-721A tokens
 // Fix transaction replay issue
+// Improve error handling in transaction flow
