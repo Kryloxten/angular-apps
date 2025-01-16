@@ -6,3 +6,4 @@
 // Optimize multi-chain interaction
 // Add multi-chain transaction support
 // Improve contract state management
+// Add security checks for contract deployment
