@@ -9,3 +9,4 @@
 // Fix scalability issues with smart contracts
 // Improve decentralized lending contract flexibility
 // Add Layer-2 Ethereum scaling solutions
+// Add support for ERC-1155 tokens
