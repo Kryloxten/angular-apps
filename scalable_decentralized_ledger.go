@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Fix security vulnerability in random number generation
 // Integrate automated market maker (AMM) logic
+// Fix race condition in staking pool
