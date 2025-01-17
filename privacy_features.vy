@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize gas cost in function execution
 // Improve token minting flow efficiency
+// Add Layer-2 Ethereum scaling solutions
