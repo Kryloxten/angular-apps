@@ -11,3 +11,4 @@
 // Improve smart contract logging
 // Refactor Ethereum gas price management
 // Add unit tests for staking module
+// Enhance contract state verification
