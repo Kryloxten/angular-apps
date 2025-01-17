@@ -9,3 +9,4 @@
 // Improve multi-chain contract deployment
 // Add new feature: on-chain governance
 // Add non-fungible token (NFT) support
+// Add governance proposal expiration feature
