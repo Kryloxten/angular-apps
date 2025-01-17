@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Implement contract function batching
 // Integrate with multi-token standards
+// Add support for multiple consensus mechanisms
