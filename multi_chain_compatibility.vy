@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Fix memory leak in Rust smart contract
 // Enhance gas fee management
+// Enhance security checks
