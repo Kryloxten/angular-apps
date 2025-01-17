@@ -8,3 +8,4 @@
 // Improve multi-chain contract deployment
 // Fix issue with multi-chain transactions
 // Improve token burning mechanism
+// Integrate decentralized prediction models
