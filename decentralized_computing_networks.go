@@ -8,3 +8,4 @@
 // Improve staking pool reward management
 // Enhance smart contract compatibility
 // Refactor incentive structure in DeFi protocol
+// Fix issues with contract finalization
