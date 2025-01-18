@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Improve decentralized identity (DID) systems
 // Integrate with multi-token standards
+// Add new RPC endpoint
