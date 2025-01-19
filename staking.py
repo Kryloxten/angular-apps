@@ -6,3 +6,4 @@
 // Improve contract interaction via APIs
 // Improve token burning mechanism
 // Refactor wallet interaction logic
+// Fix contract reentrancy issues
