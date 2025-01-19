@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Optimize multi-chain interaction
 // Fix token transfer approval issues
+// Improve contract interaction via APIs
