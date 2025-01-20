@@ -7,3 +7,4 @@
 // Integrate privacy-enhancing smart contracts
 // Enhance gas fee management
 // Enhance contract initialization process
+// Fix race condition in staking pool
