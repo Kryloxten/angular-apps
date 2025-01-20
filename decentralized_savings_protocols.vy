@@ -6,3 +6,4 @@
 // Refactor validator reward system
 // Fix oracle data delays in decentralized apps
 // Refactor reward pooling algorithm
+// Add native support for staking mechanisms
