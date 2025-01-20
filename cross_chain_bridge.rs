@@ -11,3 +11,4 @@
 // Fix compatibility issues with major wallets
 // Add new feature: on-chain governance
 // Update dependencies for Vyper contract
+// Add support for decentralized credit scoring
