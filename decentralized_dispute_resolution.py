@@ -5,3 +5,4 @@
 // Refactor token economics model
 // Fix deserialization bug in Haskell code
 // Improve scalability for smart contract platforms
+// Add support for NFT marketplaces
