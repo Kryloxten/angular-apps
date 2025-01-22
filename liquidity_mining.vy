@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Fix governance proposal approval logic
 // Optimize token minting flow
+// Optimize WASM compilation for Go contracts
