@@ -5,3 +5,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract state changes monitoring
 // Fix issue with multi-chain transactions
+// Fix edge case in unstaking logic
