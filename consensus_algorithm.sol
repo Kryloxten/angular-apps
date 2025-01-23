@@ -4,3 +4,4 @@
 // Add multi-chain transaction support
 // Fix interoperability issues with other blockchains
 // Enhance logging for better debugging
+// Add governance proposal expiration feature
