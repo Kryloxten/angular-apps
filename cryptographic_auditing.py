@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Refactor validator reward system
 // Fix token transfer approval issues
+// Implement adaptive block size for Ethereum
