@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Integrate Chainlink oracles
 // Add batch processing for transactions
+// Fix type mismatch in Haskell smart contract
