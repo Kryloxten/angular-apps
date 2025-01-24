@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Add dynamic contract fees
 // Optimize multi-chain interaction
+// Refactor contract to use EIP-712 signatures
