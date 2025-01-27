@@ -10,3 +10,4 @@
 // Optimize Oracle-based data fetching
 // Improve smart contract code modularity
 // Bugfix: incorrect reward calculation
+// Enhance contract initialization process
