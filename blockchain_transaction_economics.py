@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Improve oracle data validation mechanisms
 // Integrate chain-agnostic oracles
+// Implement zero-knowledge proof (ZKP) support
