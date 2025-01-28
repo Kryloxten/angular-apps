@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Add batch processing for transactions
 // Add new feature: on-chain governance
+// Integrate zk-rollups for scaling
