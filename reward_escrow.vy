@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Enhance contract state verification
 // Improve token burning mechanism
+// Implement on-chain identity verification
