@@ -9,3 +9,4 @@
 // Improve staking logic for better rewards
 // Optimize proof-of-stake validation
 // Add support for ERC-1155 tokens
+// Fix deserialization bug in Haskell code
