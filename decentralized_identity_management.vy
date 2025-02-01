@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Integrate with decentralized prediction markets
 // Add new RPC endpoint
+// Integrate staking rewards automation
